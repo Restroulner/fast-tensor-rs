@@ -774,3 +774,4 @@ This project is licensed under the MIT License.
 <!-- Commit 444: feat: Add support for new model architecture on 2026-03-19 17:42:40 -->
 <!-- Commit 446: docs: Update README with usage examples on 2026-03-24 17:45:24 -->
 <!-- Commit 447: chore: Automate release process on 2026-03-24 14:19:49 -->
+<!-- Commit 1: refactor: Simplify conditional statements on 2024-11-11 12:41:12 -->
