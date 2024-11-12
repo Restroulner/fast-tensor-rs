@@ -1087,3 +1087,4 @@ This project is licensed under the MIT License.
 <!-- Commit 3: docs: Add API documentation on 2024-11-06 15:30:16 -->
 <!-- Commit 4: refactor: Decouple modules on 2024-11-08 12:18:29 -->
 <!-- Commit 6: chore: Update dependencies on 2024-11-12 13:52:56 -->
+<!-- Commit 7: chore: Automate release process on 2024-11-12 11:34:22 -->
