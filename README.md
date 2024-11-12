@@ -775,3 +775,4 @@ This project is licensed under the MIT License.
 <!-- Commit 446: docs: Update README with usage examples on 2026-03-24 17:45:24 -->
 <!-- Commit 447: chore: Automate release process on 2026-03-24 14:19:49 -->
 <!-- Commit 1: refactor: Simplify conditional statements on 2024-11-11 12:41:12 -->
+<!-- Commit 2: test: Fix broken tests on 2024-11-12 13:13:38 -->
