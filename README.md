@@ -779,3 +779,4 @@ This project is licensed under the MIT License.
 <!-- Commit 3: docs: Add API documentation on 2024-11-13 10:30:59 -->
 <!-- Commit 4: style: Format code according to PEP8 on 2024-11-14 14:53:58 -->
 <!-- Commit 6: fix: Resolve bug in model training loop on 2024-11-14 13:07:05 -->
+<!-- Commit 7: test: Improve test coverage on 2024-11-14 17:38:15 -->
