@@ -777,3 +777,4 @@ This project is licensed under the MIT License.
 <!-- Commit 1: refactor: Simplify conditional statements on 2024-11-11 12:41:12 -->
 <!-- Commit 2: test: Fix broken tests on 2024-11-12 13:13:38 -->
 <!-- Commit 3: docs: Add API documentation on 2024-11-13 10:30:59 -->
+<!-- Commit 4: style: Format code according to PEP8 on 2024-11-14 14:53:58 -->
