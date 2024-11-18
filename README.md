@@ -43,3 +43,4 @@ This project is licensed under the MIT License.
 <!-- Commit 18: refactor: Decouple modules on 2024-11-14 17:47:41 -->
 <!-- Commit 19: feat: Implement new evaluation metric on 2024-11-14 11:08:21 -->
 <!-- Commit 21: docs: Update README with usage examples on 2024-11-18 16:55:54 -->
+<!-- Commit 22: refactor: Simplify conditional statements on 2024-11-18 15:18:14 -->
