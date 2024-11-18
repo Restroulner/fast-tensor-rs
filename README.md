@@ -42,3 +42,4 @@ This project is licensed under the MIT License.
 <!-- Commit 17: test: Add integration tests on 2024-11-14 15:44:39 -->
 <!-- Commit 18: refactor: Decouple modules on 2024-11-14 17:47:41 -->
 <!-- Commit 19: feat: Implement new evaluation metric on 2024-11-14 11:08:21 -->
+<!-- Commit 21: docs: Update README with usage examples on 2024-11-18 16:55:54 -->
