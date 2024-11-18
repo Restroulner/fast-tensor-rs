@@ -1091,3 +1091,4 @@ This project is licensed under the MIT License.
 <!-- Commit 8: test: Improve test coverage on 2024-11-12 14:43:14 -->
 <!-- Commit 9: fix: Correct off-by-one error in indexing on 2024-11-13 10:16:26 -->
 <!-- Commit 11: feat: Implement new evaluation metric on 2024-11-15 17:50:00 -->
+<!-- Commit 12: refactor: Simplify conditional statements on 2024-11-18 13:51:23 -->
