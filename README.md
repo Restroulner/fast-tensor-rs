@@ -434,3 +434,4 @@ This project is licensed under the MIT License.
 <!-- Commit 19: test: Improve test coverage on 2024-11-20 09:05:28 -->
 <!-- Commit 21: feat: Add new feature for data processing on 2024-11-21 15:25:18 -->
 <!-- Commit 22: docs: Add API documentation on 2024-11-22 09:39:43 -->
+<!-- Commit 23: docs: Clarify installation instructions on 2024-11-25 10:45:05 -->
