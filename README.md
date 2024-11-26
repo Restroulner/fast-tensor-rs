@@ -1095,3 +1095,4 @@ This project is licensed under the MIT License.
 <!-- Commit 13: test: Fix broken tests on 2024-11-19 12:58:36 -->
 <!-- Commit 14: perf: Reduce memory footprint on 2024-11-20 11:09:20 -->
 <!-- Commit 16: test: Add unit tests for new module on 2024-11-21 12:31:24 -->
+<!-- Commit 17: docs: Add API documentation on 2024-11-26 13:26:29 -->
