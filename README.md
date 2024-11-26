@@ -1097,3 +1097,4 @@ This project is licensed under the MIT License.
 <!-- Commit 16: test: Add unit tests for new module on 2024-11-21 12:31:24 -->
 <!-- Commit 17: docs: Add API documentation on 2024-11-26 13:26:29 -->
 <!-- Commit 18: docs: Generate Sphinx documentation on 2024-11-26 16:28:22 -->
+<!-- Commit 19: refactor: Extract common logic into helper function on 2024-11-26 14:32:04 -->
