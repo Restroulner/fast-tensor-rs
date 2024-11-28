@@ -436,3 +436,4 @@ This project is licensed under the MIT License.
 <!-- Commit 22: docs: Add API documentation on 2024-11-22 09:39:43 -->
 <!-- Commit 23: docs: Clarify installation instructions on 2024-11-25 10:45:05 -->
 <!-- Commit 24: fix: Resolve bug in model training loop on 2024-11-26 15:06:56 -->
+<!-- Commit 26: docs: Clarify installation instructions on 2024-11-28 09:27:29 -->
