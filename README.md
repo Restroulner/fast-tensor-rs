@@ -788,3 +788,4 @@ This project is licensed under the MIT License.
 <!-- Commit 14: refactor: Decouple modules on 2024-11-22 15:44:51 -->
 <!-- Commit 16: chore: Update dependencies on 2024-11-25 16:08:15 -->
 <!-- Commit 17: docs: Clarify installation instructions on 2024-11-27 15:36:45 -->
+<!-- Commit 18: docs: Clarify installation instructions on 2024-11-29 11:21:04 -->
