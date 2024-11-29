@@ -1101,3 +1101,4 @@ This project is licensed under the MIT License.
 <!-- Commit 21: fix: Prevent potential race condition on 2024-11-27 16:05:31 -->
 <!-- Commit 22: refactor: Decouple modules on 2024-11-28 09:12:46 -->
 <!-- Commit 23: docs: Clarify installation instructions on 2024-11-29 09:52:41 -->
+<!-- Commit 24: docs: Clarify installation instructions on 2024-11-29 16:31:08 -->
