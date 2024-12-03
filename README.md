@@ -439,3 +439,4 @@ This project is licensed under the MIT License.
 <!-- Commit 26: docs: Clarify installation instructions on 2024-11-28 09:27:29 -->
 <!-- Commit 27: style: Clean up whitespace on 2024-11-29 10:49:10 -->
 <!-- Commit 28: style: Adhere to linter rules on 2024-12-02 12:37:06 -->
+<!-- Commit 29: docs: Add API documentation on 2024-12-03 12:39:21 -->
