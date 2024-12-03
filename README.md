@@ -791,3 +791,4 @@ This project is licensed under the MIT License.
 <!-- Commit 18: docs: Clarify installation instructions on 2024-11-29 11:21:04 -->
 <!-- Commit 19: feat: Integrate new data source on 2024-11-29 16:03:23 -->
 <!-- Commit 21: test: Add integration tests on 2024-12-02 11:55:07 -->
+<!-- Commit 22: docs: Generate Sphinx documentation on 2024-12-03 16:10:33 -->
