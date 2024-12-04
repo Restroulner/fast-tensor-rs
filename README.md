@@ -56,3 +56,4 @@ This project is licensed under the MIT License.
 <!-- Commit 34: test: Improve test coverage on 2024-11-29 11:35:14 -->
 <!-- Commit 36: refactor: Decouple modules on 2024-12-03 10:04:48 -->
 <!-- Commit 37: style: Format code according to PEP8 on 2024-12-03 13:52:20 -->
+<!-- Commit 38: refactor: Improve code readability and structure on 2024-12-04 14:13:01 -->
