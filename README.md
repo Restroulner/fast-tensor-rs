@@ -58,3 +58,4 @@ This project is licensed under the MIT License.
 <!-- Commit 37: style: Format code according to PEP8 on 2024-12-03 13:52:20 -->
 <!-- Commit 38: refactor: Improve code readability and structure on 2024-12-04 14:13:01 -->
 <!-- Commit 39: style: Format code according to PEP8 on 2024-12-04 10:23:42 -->
+<!-- Commit 41: perf: Reduce memory footprint on 2024-12-04 14:55:25 -->
