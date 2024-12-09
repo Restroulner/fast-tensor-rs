@@ -62,3 +62,4 @@ This project is licensed under the MIT License.
 <!-- Commit 42: feat: Implement new evaluation metric on 2024-12-05 16:05:22 -->
 <!-- Commit 43: test: Improve test coverage on 2024-12-05 09:39:27 -->
 <!-- Commit 44: chore: Automate release process on 2024-12-06 15:44:56 -->
+<!-- Commit 46: test: Add integration tests on 2024-12-09 14:18:58 -->
