@@ -440,3 +440,4 @@ This project is licensed under the MIT License.
 <!-- Commit 27: style: Clean up whitespace on 2024-11-29 10:49:10 -->
 <!-- Commit 28: style: Adhere to linter rules on 2024-12-02 12:37:06 -->
 <!-- Commit 29: docs: Add API documentation on 2024-12-03 12:39:21 -->
+<!-- Commit 31: fix: Resolve bug in model training loop on 2024-12-10 10:59:23 -->
