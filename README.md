@@ -1108,3 +1108,4 @@ This project is licensed under the MIT License.
 <!-- Commit 29: fix: Prevent potential race condition on 2024-12-04 16:27:57 -->
 <!-- Commit 31: style: Format code according to PEP8 on 2024-12-05 16:58:12 -->
 <!-- Commit 32: style: Adhere to linter rules on 2024-12-06 13:21:08 -->
+<!-- Commit 33: docs: Update README with usage examples on 2024-12-11 09:17:01 -->
