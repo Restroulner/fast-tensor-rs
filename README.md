@@ -64,3 +64,4 @@ This project is licensed under the MIT License.
 <!-- Commit 44: chore: Automate release process on 2024-12-06 15:44:56 -->
 <!-- Commit 46: test: Add integration tests on 2024-12-09 14:18:58 -->
 <!-- Commit 47: fix: Resolve bug in model training loop on 2024-12-10 13:34:23 -->
+<!-- Commit 48: perf: Reduce memory footprint on 2024-12-13 11:34:02 -->
