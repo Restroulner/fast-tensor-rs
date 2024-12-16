@@ -1110,3 +1110,4 @@ This project is licensed under the MIT License.
 <!-- Commit 32: style: Adhere to linter rules on 2024-12-06 13:21:08 -->
 <!-- Commit 33: docs: Update README with usage examples on 2024-12-11 09:17:01 -->
 <!-- Commit 34: feat: Implement new evaluation metric on 2024-12-16 13:08:56 -->
+<!-- Commit 36: fix: Handle edge cases in input validation on 2024-12-16 12:58:28 -->
