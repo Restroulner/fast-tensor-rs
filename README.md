@@ -66,3 +66,4 @@ This project is licensed under the MIT License.
 <!-- Commit 47: fix: Resolve bug in model training loop on 2024-12-10 13:34:23 -->
 <!-- Commit 48: perf: Reduce memory footprint on 2024-12-13 11:34:02 -->
 <!-- Commit 49: fix: Prevent potential race condition on 2024-12-17 14:48:06 -->
+<!-- Commit 51: feat: Add support for new model architecture on 2024-12-18 13:18:45 -->
