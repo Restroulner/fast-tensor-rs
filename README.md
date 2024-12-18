@@ -449,3 +449,4 @@ This project is licensed under the MIT License.
 <!-- Commit 38: style: Clean up whitespace on 2024-12-16 17:49:13 -->
 <!-- Commit 39: chore: Upgrade Python version on 2024-12-16 10:51:23 -->
 <!-- Commit 41: fix: Resolve bug in model training loop on 2024-12-17 15:33:45 -->
+<!-- Commit 42: docs: Clarify installation instructions on 2024-12-18 10:43:24 -->
