@@ -68,3 +68,4 @@ This project is licensed under the MIT License.
 <!-- Commit 49: fix: Prevent potential race condition on 2024-12-17 14:48:06 -->
 <!-- Commit 51: feat: Add support for new model architecture on 2024-12-18 13:18:45 -->
 <!-- Commit 52: chore: Configure CI/CD pipeline on 2024-12-19 14:47:18 -->
+<!-- Commit 53: refactor: Improve code readability and structure on 2024-12-19 16:15:09 -->
