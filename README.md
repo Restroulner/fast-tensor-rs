@@ -453,3 +453,4 @@ This project is licensed under the MIT License.
 <!-- Commit 43: refactor: Extract common logic into helper function on 2024-12-18 09:07:58 -->
 <!-- Commit 44: docs: Generate Sphinx documentation on 2024-12-18 10:50:23 -->
 <!-- Commit 46: docs: Clarify installation instructions on 2024-12-19 14:46:47 -->
+<!-- Commit 47: fix: Prevent potential race condition on 2024-12-20 14:17:57 -->
