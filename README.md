@@ -803,3 +803,4 @@ This project is licensed under the MIT License.
 <!-- Commit 33: chore: Update dependencies on 2024-12-19 11:15:49 -->
 <!-- Commit 34: docs: Generate Sphinx documentation on 2024-12-20 14:55:53 -->
 <!-- Commit 36: docs: Clarify installation instructions on 2024-12-24 16:06:49 -->
+<!-- Commit 37: test: Fix broken tests on 2024-12-26 10:46:55 -->
