@@ -79,3 +79,4 @@ This project is licensed under the MIT License.
 <!-- Commit 63: fix: Prevent potential race condition on 2024-12-31 16:15:40 -->
 <!-- Commit 64: chore: Automate release process on 2025-01-03 11:36:39 -->
 <!-- Commit 66: test: Fix broken tests on 2025-01-06 15:29:56 -->
+<!-- Commit 67: docs: Add API documentation on 2025-01-07 10:13:06 -->
