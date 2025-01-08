@@ -463,3 +463,4 @@ This project is licensed under the MIT License.
 <!-- Commit 56: perf: Parallelize computation on 2025-01-07 16:18:43 -->
 <!-- Commit 57: test: Improve test coverage on 2025-01-07 17:33:46 -->
 <!-- Commit 58: perf: Reduce memory footprint on 2025-01-07 16:24:28 -->
+<!-- Commit 59: docs: Add API documentation on 2025-01-08 16:13:24 -->
