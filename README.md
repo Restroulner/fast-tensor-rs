@@ -1516,3 +1516,4 @@ This project is licensed under the MIT License.
 <!-- Commit 69: perf: Optimize data loading performance on 2025-01-08 16:09:24 -->
 <!-- Commit 71: perf: Optimize data loading performance on 2025-01-09 10:17:23 -->
 <!-- Commit 72: docs: Clarify installation instructions on 2025-01-10 17:06:10 -->
+<!-- Commit 73: refactor: Extract common logic into helper function on 2025-01-10 10:17:45 -->
