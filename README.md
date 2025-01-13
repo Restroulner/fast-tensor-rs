@@ -83,3 +83,4 @@ This project is licensed under the MIT License.
 <!-- Commit 68: perf: Optimize data loading performance on 2025-01-07 15:35:35 -->
 <!-- Commit 69: refactor: Improve code readability and structure on 2025-01-09 09:10:49 -->
 <!-- Commit 71: fix: Resolve bug in model training loop on 2025-01-13 12:01:02 -->
+<!-- Commit 72: docs: Add API documentation on 2025-01-13 17:05:34 -->
