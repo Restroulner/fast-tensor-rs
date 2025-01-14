@@ -467,3 +467,4 @@ This project is licensed under the MIT License.
 <!-- Commit 61: style: Format code according to PEP8 on 2025-01-09 11:07:03 -->
 <!-- Commit 62: test: Improve test coverage on 2025-01-10 13:26:57 -->
 <!-- Commit 63: style: Adhere to linter rules on 2025-01-10 12:06:51 -->
+<!-- Commit 64: fix: Correct off-by-one error in indexing on 2025-01-14 10:33:00 -->
