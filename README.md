@@ -85,3 +85,4 @@ This project is licensed under the MIT License.
 <!-- Commit 71: fix: Resolve bug in model training loop on 2025-01-13 12:01:02 -->
 <!-- Commit 72: docs: Add API documentation on 2025-01-13 17:05:34 -->
 <!-- Commit 73: feat: Implement new evaluation metric on 2025-01-14 11:16:42 -->
+<!-- Commit 74: docs: Generate Sphinx documentation on 2025-01-15 11:48:51 -->
