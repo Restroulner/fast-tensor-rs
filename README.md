@@ -819,3 +819,4 @@ This project is licensed under the MIT License.
 <!-- Commit 53: docs: Update README with usage examples on 2025-01-15 17:58:54 -->
 <!-- Commit 54: refactor: Decouple modules on 2025-01-16 09:13:15 -->
 <!-- Commit 56: fix: Prevent potential race condition on 2025-01-20 11:05:28 -->
+<!-- Commit 57: fix: Handle edge cases in input validation on 2025-01-20 14:11:38 -->
