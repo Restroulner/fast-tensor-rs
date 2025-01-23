@@ -1529,3 +1529,4 @@ This project is licensed under the MIT License.
 <!-- Commit 86: style: Adhere to linter rules on 2025-01-17 17:43:35 -->
 <!-- Commit 87: feat: Integrate new data source on 2025-01-21 16:24:26 -->
 <!-- Commit 88: perf: Reduce memory footprint on 2025-01-21 10:55:10 -->
+<!-- Commit 89: docs: Update README with usage examples on 2025-01-23 16:25:11 -->
