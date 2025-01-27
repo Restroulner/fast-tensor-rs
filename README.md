@@ -1530,3 +1530,4 @@ This project is licensed under the MIT License.
 <!-- Commit 87: feat: Integrate new data source on 2025-01-21 16:24:26 -->
 <!-- Commit 88: perf: Reduce memory footprint on 2025-01-21 10:55:10 -->
 <!-- Commit 89: docs: Update README with usage examples on 2025-01-23 16:25:11 -->
+<!-- Commit 91: test: Improve test coverage on 2025-01-27 12:13:32 -->
