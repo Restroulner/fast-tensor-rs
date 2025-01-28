@@ -478,3 +478,4 @@ This project is licensed under the MIT License.
 <!-- Commit 74: feat: Add support for new model architecture on 2025-01-23 16:41:44 -->
 <!-- Commit 76: docs: Update README with usage examples on 2025-01-23 09:24:19 -->
 <!-- Commit 77: refactor: Decouple modules on 2025-01-28 17:58:49 -->
+<!-- Commit 78: style: Adhere to linter rules on 2025-01-28 17:53:35 -->
