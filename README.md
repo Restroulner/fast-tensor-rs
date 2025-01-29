@@ -822,3 +822,4 @@ This project is licensed under the MIT License.
 <!-- Commit 57: fix: Handle edge cases in input validation on 2025-01-20 14:11:38 -->
 <!-- Commit 58: test: Improve test coverage on 2025-01-22 17:10:00 -->
 <!-- Commit 59: feat: Integrate new data source on 2025-01-23 12:39:15 -->
+<!-- Commit 61: docs: Clarify installation instructions on 2025-01-29 14:11:36 -->
