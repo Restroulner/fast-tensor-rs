@@ -1533,3 +1533,4 @@ This project is licensed under the MIT License.
 <!-- Commit 91: test: Improve test coverage on 2025-01-27 12:13:32 -->
 <!-- Commit 92: feat: Add support for new model architecture on 2025-01-28 12:31:27 -->
 <!-- Commit 93: fix: Handle edge cases in input validation on 2025-01-29 13:56:50 -->
+<!-- Commit 94: docs: Generate Sphinx documentation on 2025-01-30 15:01:31 -->
