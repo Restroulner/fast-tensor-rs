@@ -1537,3 +1537,4 @@ This project is licensed under the MIT License.
 <!-- Commit 96: refactor: Improve code readability and structure on 2025-01-30 16:39:26 -->
 <!-- Commit 97: test: Fix broken tests on 2025-02-03 10:02:14 -->
 <!-- Commit 98: feat: Implement new evaluation metric on 2025-02-03 16:46:07 -->
+<!-- Commit 99: refactor: Extract common logic into helper function on 2025-02-04 09:03:33 -->
