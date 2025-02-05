@@ -94,3 +94,4 @@ This project is licensed under the MIT License.
 <!-- Commit 82: feat: Add support for new model architecture on 2025-01-28 15:05:46 -->
 <!-- Commit 83: style: Clean up whitespace on 2025-01-29 16:32:49 -->
 <!-- Commit 84: docs: Generate Sphinx documentation on 2025-01-31 09:47:42 -->
+<!-- Commit 86: docs: Add API documentation on 2025-02-05 14:05:25 -->
