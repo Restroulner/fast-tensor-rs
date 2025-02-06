@@ -96,3 +96,4 @@ This project is licensed under the MIT License.
 <!-- Commit 84: docs: Generate Sphinx documentation on 2025-01-31 09:47:42 -->
 <!-- Commit 86: docs: Add API documentation on 2025-02-05 14:05:25 -->
 <!-- Commit 87: test: Fix broken tests on 2025-02-05 11:49:15 -->
+<!-- Commit 88: docs: Add API documentation on 2025-02-06 11:44:45 -->
