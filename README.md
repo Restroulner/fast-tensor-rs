@@ -100,3 +100,4 @@ This project is licensed under the MIT License.
 <!-- Commit 89: chore: Update dependencies on 2025-02-06 10:55:40 -->
 <!-- Commit 91: fix: Resolve bug in model training loop on 2025-02-07 14:41:47 -->
 <!-- Commit 92: style: Adhere to linter rules on 2025-02-10 14:37:06 -->
+<!-- Commit 93: fix: Correct off-by-one error in indexing on 2025-02-11 09:47:14 -->
