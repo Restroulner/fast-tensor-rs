@@ -837,3 +837,4 @@ This project is licensed under the MIT License.
 <!-- Commit 76: fix: Prevent potential race condition on 2025-02-12 10:54:49 -->
 <!-- Commit 77: chore: Automate release process on 2025-02-13 09:12:27 -->
 <!-- Commit 78: docs: Generate Sphinx documentation on 2025-02-14 16:33:25 -->
+<!-- Commit 79: docs: Update README with usage examples on 2025-02-18 15:50:17 -->
