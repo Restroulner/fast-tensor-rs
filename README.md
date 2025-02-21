@@ -840,3 +840,4 @@ This project is licensed under the MIT License.
 <!-- Commit 79: docs: Update README with usage examples on 2025-02-18 15:50:17 -->
 <!-- Commit 81: test: Improve test coverage on 2025-02-21 13:31:12 -->
 <!-- Commit 82: test: Improve test coverage on 2025-02-21 17:50:49 -->
+<!-- Commit 83: docs: Clarify installation instructions on 2025-02-21 12:22:58 -->
