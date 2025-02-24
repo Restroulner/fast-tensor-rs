@@ -496,3 +496,4 @@ This project is licensed under the MIT License.
 <!-- Commit 97: docs: Generate Sphinx documentation on 2025-02-19 09:19:13 -->
 <!-- Commit 98: perf: Parallelize computation on 2025-02-20 10:14:41 -->
 <!-- Commit 99: refactor: Extract common logic into helper function on 2025-02-20 09:26:07 -->
+<!-- Commit 101: test: Improve test coverage on 2025-02-24 13:35:19 -->
