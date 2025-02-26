@@ -1554,3 +1554,4 @@ This project is licensed under the MIT License.
 <!-- Commit 117: perf: Reduce memory footprint on 2025-02-24 12:26:46 -->
 <!-- Commit 118: perf: Parallelize computation on 2025-02-24 09:29:06 -->
 <!-- Commit 119: style: Format code according to PEP8 on 2025-02-25 13:25:34 -->
+<!-- Commit 121: refactor: Simplify conditional statements on 2025-02-26 10:52:51 -->
