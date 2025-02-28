@@ -1557,3 +1557,4 @@ This project is licensed under the MIT License.
 <!-- Commit 121: refactor: Simplify conditional statements on 2025-02-26 10:52:51 -->
 <!-- Commit 122: docs: Update README with usage examples on 2025-02-26 17:58:08 -->
 <!-- Commit 123: refactor: Decouple modules on 2025-02-26 11:00:10 -->
+<!-- Commit 124: fix: Correct off-by-one error in indexing on 2025-02-28 11:55:47 -->
