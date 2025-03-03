@@ -1558,3 +1558,4 @@ This project is licensed under the MIT License.
 <!-- Commit 122: docs: Update README with usage examples on 2025-02-26 17:58:08 -->
 <!-- Commit 123: refactor: Decouple modules on 2025-02-26 11:00:10 -->
 <!-- Commit 124: fix: Correct off-by-one error in indexing on 2025-02-28 11:55:47 -->
+<!-- Commit 126: test: Add integration tests on 2025-03-03 10:39:45 -->
