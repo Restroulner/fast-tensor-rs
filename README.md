@@ -1561,3 +1561,4 @@ This project is licensed under the MIT License.
 <!-- Commit 126: test: Add integration tests on 2025-03-03 10:39:45 -->
 <!-- Commit 127: refactor: Decouple modules on 2025-03-04 11:12:08 -->
 <!-- Commit 128: chore: Update dependencies on 2025-03-04 15:49:30 -->
+<!-- Commit 129: docs: Add API documentation on 2025-03-05 12:51:26 -->
