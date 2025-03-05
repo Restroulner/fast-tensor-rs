@@ -117,3 +117,4 @@ This project is licensed under the MIT License.
 <!-- Commit 111: fix: Correct off-by-one error in indexing on 2025-03-04 13:01:06 -->
 <!-- Commit 112: test: Fix broken tests on 2025-03-05 17:21:17 -->
 <!-- Commit 113: chore: Update dependencies on 2025-03-05 17:25:42 -->
+<!-- Commit 114: refactor: Improve code readability and structure on 2025-03-05 16:31:43 -->
