@@ -119,3 +119,4 @@ This project is licensed under the MIT License.
 <!-- Commit 113: chore: Update dependencies on 2025-03-05 17:25:42 -->
 <!-- Commit 114: refactor: Improve code readability and structure on 2025-03-05 16:31:43 -->
 <!-- Commit 116: style: Format code according to PEP8 on 2025-03-06 14:22:48 -->
+<!-- Commit 117: fix: Prevent potential race condition on 2025-03-06 15:07:18 -->
