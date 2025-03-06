@@ -120,3 +120,4 @@ This project is licensed under the MIT License.
 <!-- Commit 114: refactor: Improve code readability and structure on 2025-03-05 16:31:43 -->
 <!-- Commit 116: style: Format code according to PEP8 on 2025-03-06 14:22:48 -->
 <!-- Commit 117: fix: Prevent potential race condition on 2025-03-06 15:07:18 -->
+<!-- Commit 118: chore: Upgrade Python version on 2025-03-06 11:45:22 -->
