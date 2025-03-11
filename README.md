@@ -125,3 +125,4 @@ This project is licensed under the MIT License.
 <!-- Commit 121: fix: Resolve bug in model training loop on 2025-03-10 11:27:26 -->
 <!-- Commit 122: feat: Implement new evaluation metric on 2025-03-10 12:36:30 -->
 <!-- Commit 123: docs: Add API documentation on 2025-03-11 15:07:26 -->
+<!-- Commit 124: fix: Handle edge cases in input validation on 2025-03-11 14:07:43 -->
