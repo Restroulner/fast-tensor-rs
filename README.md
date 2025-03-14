@@ -851,3 +851,4 @@ This project is licensed under the MIT License.
 <!-- Commit 93: feat: Add new feature for data processing on 2025-03-11 10:37:00 -->
 <!-- Commit 94: docs: Generate Sphinx documentation on 2025-03-11 13:51:56 -->
 <!-- Commit 96: style: Format code according to PEP8 on 2025-03-13 12:39:14 -->
+<!-- Commit 97: refactor: Extract common logic into helper function on 2025-03-14 16:12:36 -->
