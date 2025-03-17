@@ -1567,3 +1567,4 @@ This project is licensed under the MIT License.
 <!-- Commit 133: test: Add unit tests for new module on 2025-03-10 15:12:23 -->
 <!-- Commit 134: refactor: Simplify conditional statements on 2025-03-12 11:34:57 -->
 <!-- Commit 136: perf: Optimize data loading performance on 2025-03-13 11:26:32 -->
+<!-- Commit 137: refactor: Extract common logic into helper function on 2025-03-17 11:27:23 -->
