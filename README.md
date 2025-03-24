@@ -516,3 +516,4 @@ This project is licensed under the MIT License.
 <!-- Commit 122: feat: Add support for new model architecture on 2025-03-19 12:07:22 -->
 <!-- Commit 123: chore: Configure CI/CD pipeline on 2025-03-21 12:26:30 -->
 <!-- Commit 124: test: Fix broken tests on 2025-03-21 09:31:56 -->
+<!-- Commit 126: perf: Reduce memory footprint on 2025-03-24 14:37:41 -->
