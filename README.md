@@ -522,3 +522,4 @@ This project is licensed under the MIT License.
 <!-- Commit 129: chore: Automate release process on 2025-03-24 09:02:40 -->
 <!-- Commit 131: chore: Update dependencies on 2025-03-26 17:54:02 -->
 <!-- Commit 132: docs: Update README with usage examples on 2025-03-26 13:51:19 -->
+<!-- Commit 133: test: Fix broken tests on 2025-03-28 17:31:28 -->
