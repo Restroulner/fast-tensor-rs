@@ -1179,3 +1179,4 @@ This project is licensed under the MIT License.
 <!-- Commit 118: feat: Add support for new model architecture on 2025-03-19 15:02:57 -->
 <!-- Commit 119: refactor: Simplify conditional statements on 2025-03-20 10:03:00 -->
 <!-- Commit 121: refactor: Extract common logic into helper function on 2025-03-26 13:05:32 -->
+<!-- Commit 122: docs: Add API documentation on 2025-03-28 12:42:59 -->
