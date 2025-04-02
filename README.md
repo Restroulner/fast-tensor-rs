@@ -861,3 +861,4 @@ This project is licensed under the MIT License.
 <!-- Commit 106: test: Fix broken tests on 2025-03-31 09:10:28 -->
 <!-- Commit 107: chore: Configure CI/CD pipeline on 2025-03-31 17:18:46 -->
 <!-- Commit 108: docs: Add API documentation on 2025-03-31 16:29:29 -->
+<!-- Commit 109: docs: Update README with usage examples on 2025-04-02 09:30:38 -->
