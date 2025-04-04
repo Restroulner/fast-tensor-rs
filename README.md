@@ -149,3 +149,4 @@ This project is licensed under the MIT License.
 <!-- Commit 151: style: Adhere to linter rules on 2025-04-03 10:21:09 -->
 <!-- Commit 152: docs: Add API documentation on 2025-04-03 12:55:30 -->
 <!-- Commit 153: fix: Resolve bug in model training loop on 2025-04-04 11:35:04 -->
+<!-- Commit 154: perf: Reduce memory footprint on 2025-04-04 10:56:01 -->
