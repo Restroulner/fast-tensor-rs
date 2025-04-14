@@ -1587,3 +1587,4 @@ This project is licensed under the MIT License.
 <!-- Commit 158: refactor: Decouple modules on 2025-04-08 12:33:40 -->
 <!-- Commit 159: fix: Resolve bug in model training loop on 2025-04-09 14:57:56 -->
 <!-- Commit 161: style: Format code according to PEP8 on 2025-04-11 12:04:03 -->
+<!-- Commit 162: docs: Update README with usage examples on 2025-04-14 14:19:30 -->
