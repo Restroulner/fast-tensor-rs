@@ -867,3 +867,4 @@ This project is licensed under the MIT License.
 <!-- Commit 113: fix: Resolve bug in model training loop on 2025-04-08 09:29:27 -->
 <!-- Commit 114: chore: Configure CI/CD pipeline on 2025-04-10 10:36:29 -->
 <!-- Commit 116: refactor: Decouple modules on 2025-04-14 14:57:48 -->
+<!-- Commit 117: docs: Update README with usage examples on 2025-04-15 16:36:02 -->
