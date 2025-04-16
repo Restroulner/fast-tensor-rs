@@ -533,3 +533,4 @@ This project is licensed under the MIT License.
 <!-- Commit 143: docs: Clarify installation instructions on 2025-04-14 11:42:41 -->
 <!-- Commit 144: docs: Clarify installation instructions on 2025-04-15 13:44:24 -->
 <!-- Commit 146: test: Improve test coverage on 2025-04-16 11:10:29 -->
+<!-- Commit 147: fix: Handle edge cases in input validation on 2025-04-16 14:53:58 -->
