@@ -158,3 +158,4 @@ This project is licensed under the MIT License.
 <!-- Commit 162: test: Add integration tests on 2025-04-11 11:11:45 -->
 <!-- Commit 163: fix: Resolve bug in model training loop on 2025-04-15 10:47:07 -->
 <!-- Commit 164: feat: Implement new evaluation metric on 2025-04-15 16:03:13 -->
+<!-- Commit 166: test: Improve test coverage on 2025-04-18 17:16:56 -->
