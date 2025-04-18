@@ -1593,3 +1593,4 @@ This project is licensed under the MIT License.
 <!-- Commit 166: docs: Generate Sphinx documentation on 2025-04-17 13:45:28 -->
 <!-- Commit 167: style: Clean up whitespace on 2025-04-18 17:42:50 -->
 <!-- Commit 168: perf: Reduce memory footprint on 2025-04-18 13:25:04 -->
+<!-- Commit 169: docs: Add API documentation on 2025-04-18 11:36:07 -->
