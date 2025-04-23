@@ -1191,3 +1191,4 @@ This project is licensed under the MIT License.
 <!-- Commit 133: feat: Add support for new model architecture on 2025-04-16 11:39:15 -->
 <!-- Commit 134: perf: Optimize data loading performance on 2025-04-16 16:52:06 -->
 <!-- Commit 136: style: Clean up whitespace on 2025-04-17 15:00:09 -->
+<!-- Commit 137: docs: Add API documentation on 2025-04-23 14:04:35 -->
