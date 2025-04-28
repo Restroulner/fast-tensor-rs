@@ -164,3 +164,4 @@ This project is licensed under the MIT License.
 <!-- Commit 169: test: Add integration tests on 2025-04-22 10:55:45 -->
 <!-- Commit 171: feat: Add support for new model architecture on 2025-04-24 12:27:42 -->
 <!-- Commit 172: test: Add unit tests for new module on 2025-04-25 10:00:13 -->
+<!-- Commit 173: test: Fix broken tests on 2025-04-28 16:14:46 -->
