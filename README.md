@@ -544,3 +544,4 @@ This project is licensed under the MIT License.
 <!-- Commit 157: style: Adhere to linter rules on 2025-04-24 11:52:25 -->
 <!-- Commit 158: fix: Correct off-by-one error in indexing on 2025-04-24 16:02:29 -->
 <!-- Commit 159: chore: Update dependencies on 2025-04-25 10:17:30 -->
+<!-- Commit 161: refactor: Extract common logic into helper function on 2025-04-28 13:46:01 -->
