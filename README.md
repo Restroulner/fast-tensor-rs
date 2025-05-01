@@ -167,3 +167,4 @@ This project is licensed under the MIT License.
 <!-- Commit 173: test: Fix broken tests on 2025-04-28 16:14:46 -->
 <!-- Commit 174: chore: Upgrade Python version on 2025-04-30 10:00:24 -->
 <!-- Commit 176: feat: Implement new evaluation metric on 2025-04-30 09:46:02 -->
+<!-- Commit 177: chore: Automate release process on 2025-05-01 14:20:37 -->
