@@ -1196,3 +1196,4 @@ This project is licensed under the MIT License.
 <!-- Commit 139: refactor: Extract common logic into helper function on 2025-04-30 17:44:22 -->
 <!-- Commit 141: feat: Implement new evaluation metric on 2025-05-01 11:13:50 -->
 <!-- Commit 142: feat: Implement new evaluation metric on 2025-05-05 11:45:16 -->
+<!-- Commit 143: docs: Add API documentation on 2025-05-05 13:47:20 -->
