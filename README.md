@@ -553,3 +553,4 @@ This project is licensed under the MIT License.
 <!-- Commit 168: feat: Add support for new model architecture on 2025-05-05 17:48:17 -->
 <!-- Commit 169: refactor: Decouple modules on 2025-05-05 16:12:46 -->
 <!-- Commit 171: style: Format code according to PEP8 on 2025-05-06 16:08:16 -->
+<!-- Commit 172: refactor: Improve code readability and structure on 2025-05-06 09:18:11 -->
