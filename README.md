@@ -557,3 +557,4 @@ This project is licensed under the MIT License.
 <!-- Commit 173: fix: Prevent potential race condition on 2025-05-08 14:26:22 -->
 <!-- Commit 174: fix: Handle edge cases in input validation on 2025-05-08 10:49:57 -->
 <!-- Commit 176: feat: Implement new evaluation metric on 2025-05-08 10:31:01 -->
+<!-- Commit 177: docs: Generate Sphinx documentation on 2025-05-08 14:05:52 -->
