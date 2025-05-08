@@ -555,3 +555,4 @@ This project is licensed under the MIT License.
 <!-- Commit 171: style: Format code according to PEP8 on 2025-05-06 16:08:16 -->
 <!-- Commit 172: refactor: Improve code readability and structure on 2025-05-06 09:18:11 -->
 <!-- Commit 173: fix: Prevent potential race condition on 2025-05-08 14:26:22 -->
+<!-- Commit 174: fix: Handle edge cases in input validation on 2025-05-08 10:49:57 -->
