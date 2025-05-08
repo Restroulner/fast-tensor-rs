@@ -554,3 +554,4 @@ This project is licensed under the MIT License.
 <!-- Commit 169: refactor: Decouple modules on 2025-05-05 16:12:46 -->
 <!-- Commit 171: style: Format code according to PEP8 on 2025-05-06 16:08:16 -->
 <!-- Commit 172: refactor: Improve code readability and structure on 2025-05-06 09:18:11 -->
+<!-- Commit 173: fix: Prevent potential race condition on 2025-05-08 14:26:22 -->
