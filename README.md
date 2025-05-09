@@ -174,3 +174,4 @@ This project is licensed under the MIT License.
 <!-- Commit 182: style: Adhere to linter rules on 2025-05-07 15:42:55 -->
 <!-- Commit 183: docs: Add API documentation on 2025-05-07 14:04:05 -->
 <!-- Commit 184: refactor: Extract common logic into helper function on 2025-05-08 09:31:08 -->
+<!-- Commit 186: feat: Add support for new model architecture on 2025-05-09 13:22:29 -->
