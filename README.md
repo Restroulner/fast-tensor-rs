@@ -183,3 +183,4 @@ This project is licensed under the MIT License.
 <!-- Commit 193: test: Improve test coverage on 2025-05-14 14:35:29 -->
 <!-- Commit 194: style: Adhere to linter rules on 2025-05-16 15:43:46 -->
 <!-- Commit 196: refactor: Simplify conditional statements on 2025-05-19 16:42:03 -->
+<!-- Commit 197: docs: Add API documentation on 2025-05-20 09:59:37 -->
