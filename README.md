@@ -1210,3 +1210,4 @@ This project is licensed under the MIT License.
 <!-- Commit 157: fix: Correct off-by-one error in indexing on 2025-05-19 11:34:48 -->
 <!-- Commit 158: feat: Implement new evaluation metric on 2025-05-19 15:50:41 -->
 <!-- Commit 159: test: Add unit tests for new module on 2025-05-20 09:30:07 -->
+<!-- Commit 161: fix: Handle edge cases in input validation on 2025-05-21 16:16:30 -->
