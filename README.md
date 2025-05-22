@@ -1214,3 +1214,4 @@ This project is licensed under the MIT License.
 <!-- Commit 162: chore: Update dependencies on 2025-05-21 11:44:17 -->
 <!-- Commit 163: fix: Correct off-by-one error in indexing on 2025-05-21 11:30:35 -->
 <!-- Commit 164: docs: Clarify installation instructions on 2025-05-21 17:12:43 -->
+<!-- Commit 166: refactor: Improve code readability and structure on 2025-05-22 10:53:07 -->
