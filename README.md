@@ -1615,3 +1615,4 @@ This project is licensed under the MIT License.
 <!-- Commit 193: feat: Implement new evaluation metric on 2025-05-19 09:04:28 -->
 <!-- Commit 194: test: Fix broken tests on 2025-05-19 09:15:18 -->
 <!-- Commit 196: chore: Configure CI/CD pipeline on 2025-05-23 09:37:22 -->
+<!-- Commit 197: docs: Clarify installation instructions on 2025-05-23 12:06:24 -->
