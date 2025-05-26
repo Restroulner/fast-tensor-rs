@@ -1619,3 +1619,4 @@ This project is licensed under the MIT License.
 <!-- Commit 198: docs: Generate Sphinx documentation on 2025-05-26 10:33:26 -->
 <!-- Commit 199: chore: Update dependencies on 2025-05-26 14:48:52 -->
 <!-- Commit 201: refactor: Extract common logic into helper function on 2025-05-26 16:41:53 -->
+<!-- Commit 202: refactor: Simplify conditional statements on 2025-05-26 15:45:03 -->
