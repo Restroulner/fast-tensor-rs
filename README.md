@@ -186,3 +186,4 @@ This project is licensed under the MIT License.
 <!-- Commit 197: docs: Add API documentation on 2025-05-20 09:59:37 -->
 <!-- Commit 198: perf: Parallelize computation on 2025-05-22 17:14:08 -->
 <!-- Commit 199: chore: Automate release process on 2025-05-22 13:14:18 -->
+<!-- Commit 201: feat: Add support for new model architecture on 2025-05-27 12:54:32 -->
