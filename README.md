@@ -572,3 +572,4 @@ This project is licensed under the MIT License.
 <!-- Commit 192: docs: Add API documentation on 2025-05-23 11:46:00 -->
 <!-- Commit 193: perf: Parallelize computation on 2025-05-26 17:30:49 -->
 <!-- Commit 194: docs: Add API documentation on 2025-05-27 16:57:24 -->
+<!-- Commit 196: docs: Generate Sphinx documentation on 2025-05-29 09:34:24 -->
