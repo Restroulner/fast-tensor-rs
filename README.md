@@ -575,3 +575,4 @@ This project is licensed under the MIT License.
 <!-- Commit 196: docs: Generate Sphinx documentation on 2025-05-29 09:34:24 -->
 <!-- Commit 197: docs: Update README with usage examples on 2025-05-29 13:46:54 -->
 <!-- Commit 198: fix: Handle edge cases in input validation on 2025-05-30 11:22:18 -->
+<!-- Commit 199: refactor: Simplify conditional statements on 2025-06-03 10:15:29 -->
