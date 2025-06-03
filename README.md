@@ -894,3 +894,4 @@ This project is licensed under the MIT License.
 <!-- Commit 147: refactor: Improve code readability and structure on 2025-05-27 15:35:00 -->
 <!-- Commit 148: style: Clean up whitespace on 2025-05-28 14:24:11 -->
 <!-- Commit 149: chore: Configure CI/CD pipeline on 2025-05-28 16:37:59 -->
+<!-- Commit 151: docs: Clarify installation instructions on 2025-06-03 16:09:50 -->
