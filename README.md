@@ -578,3 +578,4 @@ This project is licensed under the MIT License.
 <!-- Commit 199: refactor: Simplify conditional statements on 2025-06-03 10:15:29 -->
 <!-- Commit 201: perf: Parallelize computation on 2025-06-04 13:15:30 -->
 <!-- Commit 202: docs: Update README with usage examples on 2025-06-04 17:49:08 -->
+<!-- Commit 203: docs: Add API documentation on 2025-06-04 11:12:14 -->
