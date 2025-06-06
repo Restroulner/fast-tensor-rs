@@ -192,3 +192,4 @@ This project is licensed under the MIT License.
 <!-- Commit 204: chore: Configure CI/CD pipeline on 2025-05-30 11:53:36 -->
 <!-- Commit 206: test: Fix broken tests on 2025-06-04 14:26:21 -->
 <!-- Commit 207: fix: Prevent potential race condition on 2025-06-05 15:35:03 -->
+<!-- Commit 208: refactor: Improve code readability and structure on 2025-06-06 10:33:44 -->
