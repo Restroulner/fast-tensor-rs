@@ -580,3 +580,4 @@ This project is licensed under the MIT License.
 <!-- Commit 202: docs: Update README with usage examples on 2025-06-04 17:49:08 -->
 <!-- Commit 203: docs: Add API documentation on 2025-06-04 11:12:14 -->
 <!-- Commit 204: perf: Parallelize computation on 2025-06-09 15:30:50 -->
+<!-- Commit 206: test: Add integration tests on 2025-06-11 15:19:12 -->
