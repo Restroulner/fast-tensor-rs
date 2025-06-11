@@ -200,3 +200,4 @@ This project is licensed under the MIT License.
 <!-- Commit 214: fix: Resolve bug in model training loop on 2025-06-10 14:02:56 -->
 <!-- Commit 216: docs: Generate Sphinx documentation on 2025-06-10 15:52:55 -->
 <!-- Commit 217: style: Format code according to PEP8 on 2025-06-10 10:49:10 -->
+<!-- Commit 218: perf: Optimize data loading performance on 2025-06-11 10:25:28 -->
