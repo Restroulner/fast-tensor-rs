@@ -1234,3 +1234,4 @@ This project is licensed under the MIT License.
 <!-- Commit 187: refactor: Decouple modules on 2025-06-12 16:47:35 -->
 <!-- Commit 188: refactor: Extract common logic into helper function on 2025-06-12 12:26:16 -->
 <!-- Commit 189: docs: Generate Sphinx documentation on 2025-06-13 11:22:37 -->
+<!-- Commit 191: feat: Add support for new model architecture on 2025-06-16 14:00:35 -->
