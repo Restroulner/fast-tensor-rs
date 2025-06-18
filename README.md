@@ -1236,3 +1236,4 @@ This project is licensed under the MIT License.
 <!-- Commit 189: docs: Generate Sphinx documentation on 2025-06-13 11:22:37 -->
 <!-- Commit 191: feat: Add support for new model architecture on 2025-06-16 14:00:35 -->
 <!-- Commit 192: perf: Parallelize computation on 2025-06-17 10:42:37 -->
+<!-- Commit 193: test: Add integration tests on 2025-06-18 13:49:42 -->
