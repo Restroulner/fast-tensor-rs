@@ -903,3 +903,4 @@ This project is licensed under the MIT License.
 <!-- Commit 158: refactor: Improve code readability and structure on 2025-06-13 11:19:12 -->
 <!-- Commit 159: docs: Update README with usage examples on 2025-06-13 12:01:39 -->
 <!-- Commit 161: test: Fix broken tests on 2025-06-17 14:02:42 -->
+<!-- Commit 162: fix: Handle edge cases in input validation on 2025-06-18 17:18:05 -->
