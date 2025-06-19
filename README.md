@@ -904,3 +904,4 @@ This project is licensed under the MIT License.
 <!-- Commit 159: docs: Update README with usage examples on 2025-06-13 12:01:39 -->
 <!-- Commit 161: test: Fix broken tests on 2025-06-17 14:02:42 -->
 <!-- Commit 162: fix: Handle edge cases in input validation on 2025-06-18 17:18:05 -->
+<!-- Commit 163: test: Improve test coverage on 2025-06-19 17:31:05 -->
