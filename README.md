@@ -207,3 +207,4 @@ This project is licensed under the MIT License.
 <!-- Commit 223: test: Improve test coverage on 2025-06-16 13:43:18 -->
 <!-- Commit 224: style: Clean up whitespace on 2025-06-17 14:04:05 -->
 <!-- Commit 226: feat: Add new feature for data processing on 2025-06-19 15:00:25 -->
+<!-- Commit 227: docs: Add API documentation on 2025-06-20 17:16:32 -->
