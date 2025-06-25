@@ -587,3 +587,4 @@ This project is licensed under the MIT License.
 <!-- Commit 211: chore: Automate release process on 2025-06-18 11:51:16 -->
 <!-- Commit 212: feat: Implement new evaluation metric on 2025-06-19 16:30:27 -->
 <!-- Commit 213: feat: Implement new evaluation metric on 2025-06-20 10:38:53 -->
+<!-- Commit 214: docs: Generate Sphinx documentation on 2025-06-25 15:04:08 -->
