@@ -215,3 +215,4 @@ This project is licensed under the MIT License.
 <!-- Commit 233: refactor: Simplify conditional statements on 2025-06-25 09:40:14 -->
 <!-- Commit 234: perf: Reduce memory footprint on 2025-06-26 10:31:46 -->
 <!-- Commit 236: refactor: Extract common logic into helper function on 2025-06-26 15:01:26 -->
+<!-- Commit 237: fix: Correct off-by-one error in indexing on 2025-06-27 15:17:53 -->
