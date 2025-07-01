@@ -1642,3 +1642,4 @@ This project is licensed under the MIT License.
 <!-- Commit 227: feat: Integrate new data source on 2025-06-27 13:48:51 -->
 <!-- Commit 228: docs: Update README with usage examples on 2025-06-27 17:09:01 -->
 <!-- Commit 229: chore: Configure CI/CD pipeline on 2025-06-30 12:42:31 -->
+<!-- Commit 231: refactor: Improve code readability and structure on 2025-07-01 09:43:06 -->
