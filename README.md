@@ -1244,3 +1244,4 @@ This project is licensed under the MIT License.
 <!-- Commit 199: perf: Parallelize computation on 2025-06-24 17:27:30 -->
 <!-- Commit 201: refactor: Extract common logic into helper function on 2025-06-25 09:15:59 -->
 <!-- Commit 202: docs: Update README with usage examples on 2025-06-26 14:52:47 -->
+<!-- Commit 203: docs: Clarify installation instructions on 2025-07-07 11:52:41 -->
