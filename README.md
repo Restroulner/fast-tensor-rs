@@ -916,3 +916,4 @@ This project is licensed under the MIT License.
 <!-- Commit 174: refactor: Decouple modules on 2025-06-27 14:47:06 -->
 <!-- Commit 176: refactor: Improve code readability and structure on 2025-07-07 14:14:57 -->
 <!-- Commit 177: fix: Correct off-by-one error in indexing on 2025-07-07 11:31:02 -->
+<!-- Commit 178: docs: Clarify installation instructions on 2025-07-08 13:29:38 -->
