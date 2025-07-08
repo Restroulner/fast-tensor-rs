@@ -219,3 +219,4 @@ This project is licensed under the MIT License.
 <!-- Commit 238: style: Adhere to linter rules on 2025-07-01 11:19:33 -->
 <!-- Commit 239: test: Add unit tests for new module on 2025-07-02 17:06:45 -->
 <!-- Commit 241: refactor: Simplify conditional statements on 2025-07-07 12:44:41 -->
+<!-- Commit 242: docs: Update README with usage examples on 2025-07-08 12:18:55 -->
