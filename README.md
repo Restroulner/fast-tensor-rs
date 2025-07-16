@@ -1656,3 +1656,4 @@ This project is licensed under the MIT License.
 <!-- Commit 244: feat: Integrate new data source on 2025-07-10 11:26:55 -->
 <!-- Commit 246: docs: Add API documentation on 2025-07-14 12:39:17 -->
 <!-- Commit 247: refactor: Extract common logic into helper function on 2025-07-16 13:19:43 -->
+<!-- Commit 248: refactor: Improve code readability and structure on 2025-07-16 15:21:02 -->
