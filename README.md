@@ -232,3 +232,4 @@ This project is licensed under the MIT License.
 <!-- Commit 254: feat: Add new feature for data processing on 2025-07-15 15:28:44 -->
 <!-- Commit 256: feat: Add support for new model architecture on 2025-07-16 09:24:45 -->
 <!-- Commit 257: feat: Implement new evaluation metric on 2025-07-16 17:34:26 -->
+<!-- Commit 258: docs: Clarify installation instructions on 2025-07-17 14:19:10 -->
