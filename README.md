@@ -600,3 +600,4 @@ This project is licensed under the MIT License.
 <!-- Commit 227: feat: Add new feature for data processing on 2025-07-16 12:42:34 -->
 <!-- Commit 228: style: Adhere to linter rules on 2025-07-16 17:28:26 -->
 <!-- Commit 229: chore: Automate release process on 2025-07-16 12:53:08 -->
+<!-- Commit 231: docs: Clarify installation instructions on 2025-07-21 12:18:52 -->
