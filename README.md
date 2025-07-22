@@ -1660,3 +1660,4 @@ This project is licensed under the MIT License.
 <!-- Commit 249: docs: Update README with usage examples on 2025-07-17 11:57:12 -->
 <!-- Commit 251: feat: Add new feature for data processing on 2025-07-18 14:58:12 -->
 <!-- Commit 252: feat: Add new feature for data processing on 2025-07-22 12:13:46 -->
+<!-- Commit 253: refactor: Extract common logic into helper function on 2025-07-22 17:52:06 -->
