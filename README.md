@@ -602,3 +602,4 @@ This project is licensed under the MIT License.
 <!-- Commit 229: chore: Automate release process on 2025-07-16 12:53:08 -->
 <!-- Commit 231: docs: Clarify installation instructions on 2025-07-21 12:18:52 -->
 <!-- Commit 232: refactor: Improve code readability and structure on 2025-07-22 15:47:31 -->
+<!-- Commit 233: chore: Configure CI/CD pipeline on 2025-07-23 17:25:07 -->
