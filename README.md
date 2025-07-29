@@ -607,3 +607,4 @@ This project is licensed under the MIT License.
 <!-- Commit 236: fix: Prevent potential race condition on 2025-07-25 15:38:04 -->
 <!-- Commit 237: refactor: Simplify conditional statements on 2025-07-29 13:18:35 -->
 <!-- Commit 238: fix: Handle edge cases in input validation on 2025-07-29 17:49:53 -->
+<!-- Commit 239: docs: Update README with usage examples on 2025-07-29 12:57:15 -->
