@@ -1261,3 +1261,4 @@ This project is licensed under the MIT License.
 <!-- Commit 221: fix: Correct off-by-one error in indexing on 2025-07-30 10:05:55 -->
 <!-- Commit 222: fix: Handle edge cases in input validation on 2025-07-30 13:33:03 -->
 <!-- Commit 223: fix: Resolve bug in model training loop on 2025-07-31 09:42:53 -->
+<!-- Commit 224: refactor: Extract common logic into helper function on 2025-08-01 14:23:30 -->
