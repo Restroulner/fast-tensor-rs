@@ -614,3 +614,4 @@ This project is licensed under the MIT License.
 <!-- Commit 244: test: Add unit tests for new module on 2025-07-30 13:47:09 -->
 <!-- Commit 246: refactor: Extract common logic into helper function on 2025-08-01 10:56:33 -->
 <!-- Commit 247: chore: Automate release process on 2025-08-01 12:24:23 -->
+<!-- Commit 248: docs: Update README with usage examples on 2025-08-04 16:08:55 -->
