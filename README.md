@@ -937,3 +937,4 @@ This project is licensed under the MIT License.
 <!-- Commit 201: docs: Add API documentation on 2025-08-06 17:03:08 -->
 <!-- Commit 202: docs: Update README with usage examples on 2025-08-06 16:35:40 -->
 <!-- Commit 203: test: Fix broken tests on 2025-08-08 13:17:48 -->
+<!-- Commit 204: refactor: Improve code readability and structure on 2025-08-08 12:30:27 -->
