@@ -1270,3 +1270,4 @@ This project is licensed under the MIT License.
 <!-- Commit 232: perf: Optimize data loading performance on 2025-08-08 12:11:30 -->
 <!-- Commit 233: style: Clean up whitespace on 2025-08-08 11:01:30 -->
 <!-- Commit 234: feat: Add support for new model architecture on 2025-08-11 17:57:23 -->
+<!-- Commit 236: docs: Generate Sphinx documentation on 2025-08-11 12:14:37 -->
