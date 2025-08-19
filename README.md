@@ -1276,3 +1276,4 @@ This project is licensed under the MIT License.
 <!-- Commit 239: style: Clean up whitespace on 2025-08-15 16:33:27 -->
 <!-- Commit 241: test: Fix broken tests on 2025-08-18 09:08:31 -->
 <!-- Commit 242: fix: Resolve bug in model training loop on 2025-08-19 16:08:16 -->
+<!-- Commit 243: docs: Clarify installation instructions on 2025-08-19 10:16:57 -->
