@@ -625,3 +625,4 @@ This project is licensed under the MIT License.
 <!-- Commit 258: chore: Automate release process on 2025-08-18 11:36:11 -->
 <!-- Commit 259: refactor: Extract common logic into helper function on 2025-08-20 13:52:00 -->
 <!-- Commit 261: docs: Clarify installation instructions on 2025-08-21 14:49:54 -->
+<!-- Commit 262: perf: Reduce memory footprint on 2025-08-22 11:58:43 -->
