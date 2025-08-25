@@ -947,3 +947,4 @@ This project is licensed under the MIT License.
 <!-- Commit 213: style: Adhere to linter rules on 2025-08-19 09:02:13 -->
 <!-- Commit 214: feat: Integrate new data source on 2025-08-20 09:03:01 -->
 <!-- Commit 216: perf: Reduce memory footprint on 2025-08-22 15:56:39 -->
+<!-- Commit 217: fix: Correct off-by-one error in indexing on 2025-08-25 15:41:09 -->
