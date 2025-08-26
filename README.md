@@ -253,3 +253,4 @@ This project is licensed under the MIT License.
 <!-- Commit 281: perf: Parallelize computation on 2025-08-19 13:03:00 -->
 <!-- Commit 282: docs: Clarify installation instructions on 2025-08-25 09:33:59 -->
 <!-- Commit 283: perf: Optimize data loading performance on 2025-08-25 11:00:39 -->
+<!-- Commit 284: feat: Add support for new model architecture on 2025-08-26 11:45:32 -->
