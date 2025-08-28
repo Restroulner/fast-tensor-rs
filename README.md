@@ -950,3 +950,4 @@ This project is licensed under the MIT License.
 <!-- Commit 217: fix: Correct off-by-one error in indexing on 2025-08-25 15:41:09 -->
 <!-- Commit 218: test: Fix broken tests on 2025-08-26 15:31:20 -->
 <!-- Commit 219: refactor: Improve code readability and structure on 2025-08-27 11:05:24 -->
+<!-- Commit 221: style: Format code according to PEP8 on 2025-08-28 10:56:48 -->
