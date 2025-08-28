@@ -255,3 +255,4 @@ This project is licensed under the MIT License.
 <!-- Commit 283: perf: Optimize data loading performance on 2025-08-25 11:00:39 -->
 <!-- Commit 284: feat: Add support for new model architecture on 2025-08-26 11:45:32 -->
 <!-- Commit 286: perf: Parallelize computation on 2025-08-28 11:22:54 -->
+<!-- Commit 287: fix: Prevent potential race condition on 2025-08-28 09:20:58 -->
