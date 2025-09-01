@@ -631,3 +631,4 @@ This project is licensed under the MIT License.
 <!-- Commit 266: style: Clean up whitespace on 2025-08-26 16:12:06 -->
 <!-- Commit 267: fix: Handle edge cases in input validation on 2025-08-27 17:59:50 -->
 <!-- Commit 268: docs: Update README with usage examples on 2025-09-01 15:22:52 -->
+<!-- Commit 269: test: Improve test coverage on 2025-09-01 15:35:20 -->
