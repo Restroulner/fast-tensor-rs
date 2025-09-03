@@ -1687,3 +1687,4 @@ This project is licensed under the MIT License.
 <!-- Commit 283: fix: Handle edge cases in input validation on 2025-08-22 17:34:07 -->
 <!-- Commit 284: chore: Upgrade Python version on 2025-08-26 15:58:01 -->
 <!-- Commit 286: fix: Resolve bug in model training loop on 2025-09-01 13:33:40 -->
+<!-- Commit 287: refactor: Simplify conditional statements on 2025-09-03 16:41:56 -->
