@@ -1292,3 +1292,4 @@ This project is licensed under the MIT License.
 <!-- Commit 259: test: Add integration tests on 2025-08-27 15:15:27 -->
 <!-- Commit 261: docs: Generate Sphinx documentation on 2025-08-29 09:17:23 -->
 <!-- Commit 262: refactor: Improve code readability and structure on 2025-09-02 11:32:19 -->
+<!-- Commit 263: fix: Resolve bug in model training loop on 2025-09-03 11:00:06 -->
