@@ -258,3 +258,4 @@ This project is licensed under the MIT License.
 <!-- Commit 287: fix: Prevent potential race condition on 2025-08-28 09:20:58 -->
 <!-- Commit 288: perf: Optimize data loading performance on 2025-08-29 13:10:16 -->
 <!-- Commit 289: docs: Clarify installation instructions on 2025-09-01 16:38:29 -->
+<!-- Commit 291: refactor: Extract common logic into helper function on 2025-09-03 15:42:33 -->
