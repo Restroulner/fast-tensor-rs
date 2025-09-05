@@ -260,3 +260,4 @@ This project is licensed under the MIT License.
 <!-- Commit 289: docs: Clarify installation instructions on 2025-09-01 16:38:29 -->
 <!-- Commit 291: refactor: Extract common logic into helper function on 2025-09-03 15:42:33 -->
 <!-- Commit 292: refactor: Decouple modules on 2025-09-04 15:05:31 -->
+<!-- Commit 293: fix: Prevent potential race condition on 2025-09-05 12:34:25 -->
