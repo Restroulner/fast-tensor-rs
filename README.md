@@ -633,3 +633,4 @@ This project is licensed under the MIT License.
 <!-- Commit 268: docs: Update README with usage examples on 2025-09-01 15:22:52 -->
 <!-- Commit 269: test: Improve test coverage on 2025-09-01 15:35:20 -->
 <!-- Commit 271: test: Add integration tests on 2025-09-04 13:54:39 -->
+<!-- Commit 272: style: Clean up whitespace on 2025-09-05 13:16:59 -->
