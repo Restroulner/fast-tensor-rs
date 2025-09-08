@@ -1693,3 +1693,4 @@ This project is licensed under the MIT License.
 <!-- Commit 291: test: Add unit tests for new module on 2025-09-05 11:02:59 -->
 <!-- Commit 292: fix: Resolve bug in model training loop on 2025-09-05 15:49:34 -->
 <!-- Commit 293: feat: Add support for new model architecture on 2025-09-05 15:33:37 -->
+<!-- Commit 294: refactor: Extract common logic into helper function on 2025-09-08 15:49:09 -->
