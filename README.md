@@ -956,3 +956,4 @@ This project is licensed under the MIT License.
 <!-- Commit 224: fix: Prevent potential race condition on 2025-09-04 11:40:33 -->
 <!-- Commit 226: perf: Optimize data loading performance on 2025-09-05 11:13:29 -->
 <!-- Commit 227: docs: Add API documentation on 2025-09-05 14:12:03 -->
+<!-- Commit 228: refactor: Extract common logic into helper function on 2025-09-09 13:14:37 -->
