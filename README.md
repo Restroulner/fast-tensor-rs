@@ -644,3 +644,4 @@ This project is licensed under the MIT License.
 <!-- Commit 282: test: Add unit tests for new module on 2025-09-11 10:12:00 -->
 <!-- Commit 283: chore: Upgrade Python version on 2025-09-11 15:55:59 -->
 <!-- Commit 284: test: Add unit tests for new module on 2025-09-15 10:50:11 -->
+<!-- Commit 286: docs: Clarify installation instructions on 2025-09-16 11:50:25 -->
