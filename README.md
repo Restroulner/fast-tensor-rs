@@ -264,3 +264,4 @@ This project is licensed under the MIT License.
 <!-- Commit 294: feat: Add new feature for data processing on 2025-09-09 14:17:11 -->
 <!-- Commit 296: docs: Update README with usage examples on 2025-09-10 14:13:51 -->
 <!-- Commit 297: fix: Handle edge cases in input validation on 2025-09-16 09:03:18 -->
+<!-- Commit 298: test: Add integration tests on 2025-09-16 16:40:52 -->
