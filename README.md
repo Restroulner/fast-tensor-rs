@@ -647,3 +647,4 @@ This project is licensed under the MIT License.
 <!-- Commit 286: docs: Clarify installation instructions on 2025-09-16 11:50:25 -->
 <!-- Commit 287: refactor: Decouple modules on 2025-09-18 13:43:43 -->
 <!-- Commit 288: fix: Resolve bug in model training loop on 2025-09-18 15:13:35 -->
+<!-- Commit 289: fix: Handle edge cases in input validation on 2025-09-18 15:47:16 -->
