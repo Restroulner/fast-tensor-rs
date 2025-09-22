@@ -1307,3 +1307,4 @@ This project is licensed under the MIT License.
 <!-- Commit 278: refactor: Improve code readability and structure on 2025-09-18 10:13:53 -->
 <!-- Commit 279: chore: Update dependencies on 2025-09-18 15:04:26 -->
 <!-- Commit 281: fix: Correct off-by-one error in indexing on 2025-09-19 16:53:11 -->
+<!-- Commit 282: docs: Add API documentation on 2025-09-22 12:29:34 -->
