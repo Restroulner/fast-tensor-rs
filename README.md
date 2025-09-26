@@ -966,3 +966,4 @@ This project is licensed under the MIT License.
 <!-- Commit 237: docs: Update README with usage examples on 2025-09-18 11:21:36 -->
 <!-- Commit 238: chore: Configure CI/CD pipeline on 2025-09-23 12:13:37 -->
 <!-- Commit 239: test: Fix broken tests on 2025-09-24 15:37:36 -->
+<!-- Commit 241: test: Improve test coverage on 2025-09-26 15:15:25 -->
