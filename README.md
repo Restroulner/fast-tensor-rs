@@ -1713,3 +1713,4 @@ This project is licensed under the MIT License.
 <!-- Commit 316: test: Add integration tests on 2025-09-26 15:48:19 -->
 <!-- Commit 317: test: Fix broken tests on 2025-09-26 14:45:17 -->
 <!-- Commit 318: docs: Update README with usage examples on 2025-09-29 14:20:07 -->
+<!-- Commit 319: chore: Automate release process on 2025-10-01 16:40:00 -->
