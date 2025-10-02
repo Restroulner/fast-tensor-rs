@@ -660,3 +660,4 @@ This project is licensed under the MIT License.
 <!-- Commit 302: refactor: Decouple modules on 2025-10-01 10:54:08 -->
 <!-- Commit 303: style: Adhere to linter rules on 2025-10-01 13:22:38 -->
 <!-- Commit 304: refactor: Extract common logic into helper function on 2025-10-01 10:18:28 -->
+<!-- Commit 306: refactor: Improve code readability and structure on 2025-10-02 14:56:56 -->
