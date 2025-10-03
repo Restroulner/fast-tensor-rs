@@ -276,3 +276,4 @@ This project is licensed under the MIT License.
 <!-- Commit 309: test: Fix broken tests on 2025-09-30 12:38:47 -->
 <!-- Commit 311: fix: Resolve bug in model training loop on 2025-09-30 15:51:47 -->
 <!-- Commit 312: refactor: Extract common logic into helper function on 2025-10-03 09:12:44 -->
+<!-- Commit 313: docs: Add API documentation on 2025-10-03 17:27:51 -->
