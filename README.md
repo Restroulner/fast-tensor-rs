@@ -1715,3 +1715,4 @@ This project is licensed under the MIT License.
 <!-- Commit 318: docs: Update README with usage examples on 2025-09-29 14:20:07 -->
 <!-- Commit 319: chore: Automate release process on 2025-10-01 16:40:00 -->
 <!-- Commit 321: style: Format code according to PEP8 on 2025-10-03 15:40:12 -->
+<!-- Commit 322: docs: Add API documentation on 2025-10-03 15:34:36 -->
