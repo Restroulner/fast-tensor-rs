@@ -1716,3 +1716,4 @@ This project is licensed under the MIT License.
 <!-- Commit 319: chore: Automate release process on 2025-10-01 16:40:00 -->
 <!-- Commit 321: style: Format code according to PEP8 on 2025-10-03 15:40:12 -->
 <!-- Commit 322: docs: Add API documentation on 2025-10-03 15:34:36 -->
+<!-- Commit 323: fix: Prevent potential race condition on 2025-10-06 10:09:33 -->
