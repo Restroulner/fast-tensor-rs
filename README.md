@@ -1723,3 +1723,4 @@ This project is licensed under the MIT License.
 <!-- Commit 328: refactor: Improve code readability and structure on 2025-10-09 09:49:55 -->
 <!-- Commit 329: refactor: Decouple modules on 2025-10-10 11:50:48 -->
 <!-- Commit 331: refactor: Extract common logic into helper function on 2025-10-10 09:39:11 -->
+<!-- Commit 332: docs: Clarify installation instructions on 2025-10-13 12:23:09 -->
