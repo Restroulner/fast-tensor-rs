@@ -1724,3 +1724,4 @@ This project is licensed under the MIT License.
 <!-- Commit 329: refactor: Decouple modules on 2025-10-10 11:50:48 -->
 <!-- Commit 331: refactor: Extract common logic into helper function on 2025-10-10 09:39:11 -->
 <!-- Commit 332: docs: Clarify installation instructions on 2025-10-13 12:23:09 -->
+<!-- Commit 333: chore: Configure CI/CD pipeline on 2025-10-13 10:41:26 -->
