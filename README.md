@@ -975,3 +975,4 @@ This project is licensed under the MIT License.
 <!-- Commit 248: test: Add unit tests for new module on 2025-10-08 12:40:28 -->
 <!-- Commit 249: docs: Generate Sphinx documentation on 2025-10-09 09:49:25 -->
 <!-- Commit 251: style: Format code according to PEP8 on 2025-10-10 17:18:03 -->
+<!-- Commit 252: docs: Clarify installation instructions on 2025-10-13 13:09:51 -->
