@@ -282,3 +282,4 @@ This project is licensed under the MIT License.
 <!-- Commit 317: chore: Automate release process on 2025-10-10 16:16:48 -->
 <!-- Commit 318: perf: Reduce memory footprint on 2025-10-13 17:44:55 -->
 <!-- Commit 319: docs: Add API documentation on 2025-10-13 17:32:47 -->
+<!-- Commit 321: test: Add integration tests on 2025-10-13 12:21:42 -->
