@@ -979,3 +979,4 @@ This project is licensed under the MIT License.
 <!-- Commit 253: style: Adhere to linter rules on 2025-10-15 09:34:48 -->
 <!-- Commit 254: refactor: Decouple modules on 2025-10-16 13:47:15 -->
 <!-- Commit 256: style: Adhere to linter rules on 2025-10-17 17:42:20 -->
+<!-- Commit 257: docs: Clarify installation instructions on 2025-10-17 16:34:10 -->
