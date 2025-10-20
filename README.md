@@ -1327,3 +1327,4 @@ This project is licensed under the MIT License.
 <!-- Commit 303: chore: Configure CI/CD pipeline on 2025-10-15 11:46:23 -->
 <!-- Commit 304: perf: Optimize data loading performance on 2025-10-16 13:11:32 -->
 <!-- Commit 306: test: Fix broken tests on 2025-10-17 09:03:07 -->
+<!-- Commit 307: docs: Update README with usage examples on 2025-10-20 15:00:21 -->
