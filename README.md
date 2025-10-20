@@ -1328,3 +1328,4 @@ This project is licensed under the MIT License.
 <!-- Commit 304: perf: Optimize data loading performance on 2025-10-16 13:11:32 -->
 <!-- Commit 306: test: Fix broken tests on 2025-10-17 09:03:07 -->
 <!-- Commit 307: docs: Update README with usage examples on 2025-10-20 15:00:21 -->
+<!-- Commit 308: refactor: Simplify conditional statements on 2025-10-20 11:04:58 -->
