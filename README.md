@@ -673,3 +673,4 @@ This project is licensed under the MIT License.
 <!-- Commit 318: fix: Prevent potential race condition on 2025-10-15 17:42:15 -->
 <!-- Commit 319: docs: Clarify installation instructions on 2025-10-15 16:17:17 -->
 <!-- Commit 321: style: Adhere to linter rules on 2025-10-20 12:15:35 -->
+<!-- Commit 322: feat: Add support for new model architecture on 2025-10-21 10:32:32 -->
