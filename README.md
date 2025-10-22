@@ -290,3 +290,4 @@ This project is licensed under the MIT License.
 <!-- Commit 327: style: Clean up whitespace on 2025-10-20 13:42:45 -->
 <!-- Commit 328: style: Clean up whitespace on 2025-10-20 16:09:13 -->
 <!-- Commit 329: docs: Add API documentation on 2025-10-20 17:56:05 -->
+<!-- Commit 331: refactor: Improve code readability and structure on 2025-10-22 13:53:00 -->
