@@ -984,3 +984,4 @@ This project is licensed under the MIT License.
 <!-- Commit 259: feat: Implement new evaluation metric on 2025-10-21 17:51:13 -->
 <!-- Commit 261: docs: Add API documentation on 2025-10-21 16:56:40 -->
 <!-- Commit 262: test: Add unit tests for new module on 2025-10-22 16:21:37 -->
+<!-- Commit 263: fix: Correct off-by-one error in indexing on 2025-10-23 15:44:27 -->
