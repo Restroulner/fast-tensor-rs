@@ -680,3 +680,4 @@ This project is licensed under the MIT License.
 <!-- Commit 327: fix: Correct off-by-one error in indexing on 2025-10-27 14:22:31 -->
 <!-- Commit 328: fix: Prevent potential race condition on 2025-10-27 15:20:22 -->
 <!-- Commit 329: docs: Update README with usage examples on 2025-10-27 10:26:29 -->
+<!-- Commit 331: docs: Update README with usage examples on 2025-10-28 15:25:47 -->
