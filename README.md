@@ -1733,3 +1733,4 @@ This project is licensed under the MIT License.
 <!-- Commit 341: docs: Update README with usage examples on 2025-10-21 14:21:54 -->
 <!-- Commit 342: feat: Implement new evaluation metric on 2025-10-21 17:58:08 -->
 <!-- Commit 343: chore: Configure CI/CD pipeline on 2025-10-23 12:18:21 -->
+<!-- Commit 344: refactor: Improve code readability and structure on 2025-10-29 13:02:09 -->
