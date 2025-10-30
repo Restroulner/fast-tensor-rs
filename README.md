@@ -989,3 +989,4 @@ This project is licensed under the MIT License.
 <!-- Commit 266: feat: Implement new evaluation metric on 2025-10-29 16:08:28 -->
 <!-- Commit 267: chore: Upgrade Python version on 2025-10-29 15:39:43 -->
 <!-- Commit 268: docs: Update README with usage examples on 2025-10-30 16:24:53 -->
+<!-- Commit 269: feat: Add support for new model architecture on 2025-10-30 15:53:36 -->
