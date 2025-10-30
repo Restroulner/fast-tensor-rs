@@ -683,3 +683,4 @@ This project is licensed under the MIT License.
 <!-- Commit 331: docs: Update README with usage examples on 2025-10-28 15:25:47 -->
 <!-- Commit 332: fix: Prevent potential race condition on 2025-10-30 17:14:40 -->
 <!-- Commit 333: style: Clean up whitespace on 2025-10-30 10:06:55 -->
+<!-- Commit 334: chore: Configure CI/CD pipeline on 2025-10-30 11:02:21 -->
