@@ -990,3 +990,4 @@ This project is licensed under the MIT License.
 <!-- Commit 267: chore: Upgrade Python version on 2025-10-29 15:39:43 -->
 <!-- Commit 268: docs: Update README with usage examples on 2025-10-30 16:24:53 -->
 <!-- Commit 269: feat: Add support for new model architecture on 2025-10-30 15:53:36 -->
+<!-- Commit 271: perf: Reduce memory footprint on 2025-10-31 10:22:43 -->
