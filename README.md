@@ -1344,3 +1344,4 @@ This project is licensed under the MIT License.
 <!-- Commit 324: style: Format code according to PEP8 on 2025-11-05 16:24:45 -->
 <!-- Commit 326: refactor: Extract common logic into helper function on 2025-11-06 09:16:37 -->
 <!-- Commit 327: style: Adhere to linter rules on 2025-11-07 17:12:42 -->
+<!-- Commit 328: fix: Handle edge cases in input validation on 2025-11-07 10:23:12 -->
