@@ -305,3 +305,4 @@ This project is licensed under the MIT License.
 <!-- Commit 346: chore: Automate release process on 2025-11-06 16:35:26 -->
 <!-- Commit 347: style: Format code according to PEP8 on 2025-11-06 16:49:06 -->
 <!-- Commit 348: fix: Correct off-by-one error in indexing on 2025-11-07 17:43:12 -->
+<!-- Commit 349: fix: Handle edge cases in input validation on 2025-11-10 16:15:31 -->
