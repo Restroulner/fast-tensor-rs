@@ -1346,3 +1346,4 @@ This project is licensed under the MIT License.
 <!-- Commit 327: style: Adhere to linter rules on 2025-11-07 17:12:42 -->
 <!-- Commit 328: fix: Handle edge cases in input validation on 2025-11-07 10:23:12 -->
 <!-- Commit 329: test: Fix broken tests on 2025-11-10 11:21:35 -->
+<!-- Commit 331: docs: Add API documentation on 2025-11-12 14:18:00 -->
