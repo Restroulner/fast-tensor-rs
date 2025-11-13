@@ -1742,3 +1742,4 @@ This project is licensed under the MIT License.
 <!-- Commit 352: chore: Automate release process on 2025-11-11 12:53:23 -->
 <!-- Commit 353: test: Improve test coverage on 2025-11-12 13:38:27 -->
 <!-- Commit 354: perf: Optimize data loading performance on 2025-11-12 17:50:38 -->
+<!-- Commit 356: fix: Correct off-by-one error in indexing on 2025-11-13 12:41:13 -->
