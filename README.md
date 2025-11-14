@@ -309,3 +309,4 @@ This project is licensed under the MIT License.
 <!-- Commit 351: fix: Handle edge cases in input validation on 2025-11-11 15:12:03 -->
 <!-- Commit 352: style: Clean up whitespace on 2025-11-11 17:05:17 -->
 <!-- Commit 353: refactor: Simplify conditional statements on 2025-11-13 15:03:02 -->
+<!-- Commit 354: refactor: Improve code readability and structure on 2025-11-14 14:39:32 -->
