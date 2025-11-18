@@ -311,3 +311,4 @@ This project is licensed under the MIT License.
 <!-- Commit 353: refactor: Simplify conditional statements on 2025-11-13 15:03:02 -->
 <!-- Commit 354: refactor: Improve code readability and structure on 2025-11-14 14:39:32 -->
 <!-- Commit 356: style: Adhere to linter rules on 2025-11-17 14:27:49 -->
+<!-- Commit 357: docs: Clarify installation instructions on 2025-11-18 09:47:13 -->
