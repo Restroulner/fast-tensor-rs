@@ -1745,3 +1745,4 @@ This project is licensed under the MIT License.
 <!-- Commit 356: fix: Correct off-by-one error in indexing on 2025-11-13 12:41:13 -->
 <!-- Commit 357: test: Add integration tests on 2025-11-13 09:41:00 -->
 <!-- Commit 358: chore: Update dependencies on 2025-11-17 17:21:56 -->
+<!-- Commit 359: docs: Add API documentation on 2025-11-18 16:20:06 -->
