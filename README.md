@@ -312,3 +312,4 @@ This project is licensed under the MIT License.
 <!-- Commit 354: refactor: Improve code readability and structure on 2025-11-14 14:39:32 -->
 <!-- Commit 356: style: Adhere to linter rules on 2025-11-17 14:27:49 -->
 <!-- Commit 357: docs: Clarify installation instructions on 2025-11-18 09:47:13 -->
+<!-- Commit 358: chore: Upgrade Python version on 2025-11-19 09:09:06 -->
