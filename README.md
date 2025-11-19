@@ -998,3 +998,4 @@ This project is licensed under the MIT License.
 <!-- Commit 277: fix: Correct off-by-one error in indexing on 2025-11-07 10:30:19 -->
 <!-- Commit 278: style: Format code according to PEP8 on 2025-11-17 17:50:22 -->
 <!-- Commit 279: perf: Optimize data loading performance on 2025-11-17 13:01:07 -->
+<!-- Commit 281: docs: Update README with usage examples on 2025-11-19 14:13:07 -->
