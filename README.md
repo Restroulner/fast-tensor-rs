@@ -1001,3 +1001,4 @@ This project is licensed under the MIT License.
 <!-- Commit 281: docs: Update README with usage examples on 2025-11-19 14:13:07 -->
 <!-- Commit 282: feat: Add support for new model architecture on 2025-11-19 09:09:20 -->
 <!-- Commit 283: perf: Optimize data loading performance on 2025-11-19 12:39:48 -->
+<!-- Commit 284: refactor: Simplify conditional statements on 2025-11-20 09:42:41 -->
