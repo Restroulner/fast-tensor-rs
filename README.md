@@ -1357,3 +1357,4 @@ This project is licensed under the MIT License.
 <!-- Commit 341: feat: Implement new evaluation metric on 2025-11-19 14:28:17 -->
 <!-- Commit 342: style: Adhere to linter rules on 2025-11-19 09:58:01 -->
 <!-- Commit 343: test: Add unit tests for new module on 2025-11-25 17:36:36 -->
+<!-- Commit 344: docs: Update README with usage examples on 2025-11-25 16:47:53 -->
