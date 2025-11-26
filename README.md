@@ -1005,3 +1005,4 @@ This project is licensed under the MIT License.
 <!-- Commit 286: perf: Parallelize computation on 2025-11-21 16:21:11 -->
 <!-- Commit 287: test: Fix broken tests on 2025-11-21 09:44:23 -->
 <!-- Commit 288: style: Format code according to PEP8 on 2025-11-25 13:15:15 -->
+<!-- Commit 289: docs: Update README with usage examples on 2025-11-26 14:17:11 -->
