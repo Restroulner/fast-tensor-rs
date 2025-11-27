@@ -320,3 +320,4 @@ This project is licensed under the MIT License.
 <!-- Commit 364: test: Add integration tests on 2025-11-25 14:55:44 -->
 <!-- Commit 366: perf: Parallelize computation on 2025-11-25 16:20:02 -->
 <!-- Commit 367: refactor: Extract common logic into helper function on 2025-11-27 13:55:06 -->
+<!-- Commit 368: docs: Add API documentation on 2025-11-27 09:07:01 -->
