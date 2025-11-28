@@ -1362,3 +1362,4 @@ This project is licensed under the MIT License.
 <!-- Commit 347: fix: Resolve bug in model training loop on 2025-11-26 16:02:05 -->
 <!-- Commit 348: chore: Update dependencies on 2025-11-28 09:51:11 -->
 <!-- Commit 349: test: Improve test coverage on 2025-11-28 14:42:19 -->
+<!-- Commit 351: refactor: Simplify conditional statements on 2025-11-28 15:48:38 -->
