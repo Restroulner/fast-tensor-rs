@@ -700,3 +700,4 @@ This project is licensed under the MIT License.
 <!-- Commit 352: chore: Upgrade Python version on 2025-11-24 16:14:22 -->
 <!-- Commit 353: test: Add integration tests on 2025-11-25 09:03:17 -->
 <!-- Commit 354: test: Fix broken tests on 2025-11-25 15:49:31 -->
+<!-- Commit 356: feat: Add support for new model architecture on 2025-11-28 11:06:28 -->
