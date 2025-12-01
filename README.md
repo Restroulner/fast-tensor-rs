@@ -702,3 +702,4 @@ This project is licensed under the MIT License.
 <!-- Commit 354: test: Fix broken tests on 2025-11-25 15:49:31 -->
 <!-- Commit 356: feat: Add support for new model architecture on 2025-11-28 11:06:28 -->
 <!-- Commit 357: docs: Clarify installation instructions on 2025-11-28 16:56:31 -->
+<!-- Commit 358: style: Format code according to PEP8 on 2025-12-01 16:31:16 -->
