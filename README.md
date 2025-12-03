@@ -1757,3 +1757,4 @@ This project is licensed under the MIT License.
 <!-- Commit 371: chore: Configure CI/CD pipeline on 2025-12-01 15:16:56 -->
 <!-- Commit 372: test: Improve test coverage on 2025-12-01 12:28:52 -->
 <!-- Commit 373: feat: Add support for new model architecture on 2025-12-02 09:41:03 -->
+<!-- Commit 374: refactor: Improve code readability and structure on 2025-12-03 15:53:01 -->
