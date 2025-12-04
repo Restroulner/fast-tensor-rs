@@ -326,3 +326,4 @@ This project is licensed under the MIT License.
 <!-- Commit 372: docs: Update README with usage examples on 2025-12-01 10:07:39 -->
 <!-- Commit 373: perf: Reduce memory footprint on 2025-12-04 12:05:15 -->
 <!-- Commit 374: docs: Generate Sphinx documentation on 2025-12-04 12:56:51 -->
+<!-- Commit 376: perf: Parallelize computation on 2025-12-04 13:13:07 -->
