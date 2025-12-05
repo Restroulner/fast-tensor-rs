@@ -1760,3 +1760,4 @@ This project is licensed under the MIT License.
 <!-- Commit 374: refactor: Improve code readability and structure on 2025-12-03 15:53:01 -->
 <!-- Commit 376: refactor: Simplify conditional statements on 2025-12-05 12:05:08 -->
 <!-- Commit 377: refactor: Extract common logic into helper function on 2025-12-05 16:10:27 -->
+<!-- Commit 378: feat: Add support for new model architecture on 2025-12-05 11:05:35 -->
