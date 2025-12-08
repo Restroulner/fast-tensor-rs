@@ -1007,3 +1007,4 @@ This project is licensed under the MIT License.
 <!-- Commit 288: style: Format code according to PEP8 on 2025-11-25 13:15:15 -->
 <!-- Commit 289: docs: Update README with usage examples on 2025-11-26 14:17:11 -->
 <!-- Commit 291: style: Format code according to PEP8 on 2025-12-03 16:34:14 -->
+<!-- Commit 292: fix: Handle edge cases in input validation on 2025-12-08 17:17:09 -->
