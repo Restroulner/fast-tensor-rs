@@ -704,3 +704,4 @@ This project is licensed under the MIT License.
 <!-- Commit 357: docs: Clarify installation instructions on 2025-11-28 16:56:31 -->
 <!-- Commit 358: style: Format code according to PEP8 on 2025-12-01 16:31:16 -->
 <!-- Commit 359: chore: Configure CI/CD pipeline on 2025-12-02 17:32:15 -->
+<!-- Commit 361: refactor: Extract common logic into helper function on 2025-12-08 11:33:58 -->
