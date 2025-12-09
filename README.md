@@ -1761,3 +1761,4 @@ This project is licensed under the MIT License.
 <!-- Commit 376: refactor: Simplify conditional statements on 2025-12-05 12:05:08 -->
 <!-- Commit 377: refactor: Extract common logic into helper function on 2025-12-05 16:10:27 -->
 <!-- Commit 378: feat: Add support for new model architecture on 2025-12-05 11:05:35 -->
+<!-- Commit 379: fix: Handle edge cases in input validation on 2025-12-09 16:34:22 -->
