@@ -1374,3 +1374,4 @@ This project is licensed under the MIT License.
 <!-- Commit 362: chore: Update dependencies on 2025-12-08 10:18:13 -->
 <!-- Commit 363: docs: Add API documentation on 2025-12-09 17:28:25 -->
 <!-- Commit 364: test: Improve test coverage on 2025-12-10 15:20:54 -->
+<!-- Commit 366: refactor: Improve code readability and structure on 2025-12-11 09:53:29 -->
