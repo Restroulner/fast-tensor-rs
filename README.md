@@ -1377,3 +1377,4 @@ This project is licensed under the MIT License.
 <!-- Commit 366: refactor: Improve code readability and structure on 2025-12-11 09:53:29 -->
 <!-- Commit 367: fix: Resolve bug in model training loop on 2025-12-11 13:16:14 -->
 <!-- Commit 368: chore: Configure CI/CD pipeline on 2025-12-11 13:56:36 -->
+<!-- Commit 369: refactor: Extract common logic into helper function on 2025-12-12 10:19:37 -->
