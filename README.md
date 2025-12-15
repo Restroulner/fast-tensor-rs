@@ -710,3 +710,4 @@ This project is licensed under the MIT License.
 <!-- Commit 364: fix: Resolve bug in model training loop on 2025-12-10 15:35:12 -->
 <!-- Commit 366: perf: Optimize data loading performance on 2025-12-15 11:17:54 -->
 <!-- Commit 367: feat: Implement new evaluation metric on 2025-12-15 17:18:12 -->
+<!-- Commit 368: refactor: Decouple modules on 2025-12-15 14:11:49 -->
