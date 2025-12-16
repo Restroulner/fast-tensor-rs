@@ -1014,3 +1014,4 @@ This project is licensed under the MIT License.
 <!-- Commit 297: test: Add integration tests on 2025-12-15 16:15:28 -->
 <!-- Commit 298: fix: Resolve bug in model training loop on 2025-12-15 10:06:40 -->
 <!-- Commit 299: fix: Handle edge cases in input validation on 2025-12-16 12:45:31 -->
+<!-- Commit 301: docs: Generate Sphinx documentation on 2025-12-16 16:55:17 -->
