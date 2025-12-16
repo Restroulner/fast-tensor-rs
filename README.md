@@ -1381,3 +1381,4 @@ This project is licensed under the MIT License.
 <!-- Commit 371: fix: Handle edge cases in input validation on 2025-12-15 10:46:06 -->
 <!-- Commit 372: chore: Update dependencies on 2025-12-15 09:47:18 -->
 <!-- Commit 373: docs: Clarify installation instructions on 2025-12-15 17:59:03 -->
+<!-- Commit 374: fix: Resolve bug in model training loop on 2025-12-16 10:21:14 -->
