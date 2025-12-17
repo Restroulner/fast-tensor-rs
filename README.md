@@ -1769,3 +1769,4 @@ This project is licensed under the MIT License.
 <!-- Commit 386: test: Fix broken tests on 2025-12-15 11:33:03 -->
 <!-- Commit 387: docs: Generate Sphinx documentation on 2025-12-16 09:00:03 -->
 <!-- Commit 388: docs: Clarify installation instructions on 2025-12-16 16:26:52 -->
+<!-- Commit 389: refactor: Decouple modules on 2025-12-17 09:30:17 -->
