@@ -1383,3 +1383,4 @@ This project is licensed under the MIT License.
 <!-- Commit 373: docs: Clarify installation instructions on 2025-12-15 17:59:03 -->
 <!-- Commit 374: fix: Resolve bug in model training loop on 2025-12-16 10:21:14 -->
 <!-- Commit 376: chore: Update dependencies on 2025-12-17 11:17:49 -->
+<!-- Commit 377: refactor: Decouple modules on 2025-12-18 09:01:23 -->
