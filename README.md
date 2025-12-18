@@ -1016,3 +1016,4 @@ This project is licensed under the MIT License.
 <!-- Commit 299: fix: Handle edge cases in input validation on 2025-12-16 12:45:31 -->
 <!-- Commit 301: docs: Generate Sphinx documentation on 2025-12-16 16:55:17 -->
 <!-- Commit 302: refactor: Decouple modules on 2025-12-17 10:24:34 -->
+<!-- Commit 303: docs: Add API documentation on 2025-12-18 17:46:12 -->
