@@ -712,3 +712,4 @@ This project is licensed under the MIT License.
 <!-- Commit 367: feat: Implement new evaluation metric on 2025-12-15 17:18:12 -->
 <!-- Commit 368: refactor: Decouple modules on 2025-12-15 14:11:49 -->
 <!-- Commit 369: chore: Upgrade Python version on 2025-12-17 10:41:38 -->
+<!-- Commit 371: refactor: Extract common logic into helper function on 2025-12-22 09:42:53 -->
