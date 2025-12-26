@@ -341,3 +341,4 @@ This project is licensed under the MIT License.
 <!-- Commit 391: feat: Implement new evaluation metric on 2025-12-17 09:20:27 -->
 <!-- Commit 392: style: Adhere to linter rules on 2025-12-18 13:23:50 -->
 <!-- Commit 393: test: Fix broken tests on 2025-12-23 16:02:17 -->
+<!-- Commit 394: fix: Handle edge cases in input validation on 2025-12-26 13:30:44 -->
