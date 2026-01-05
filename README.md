@@ -720,3 +720,4 @@ This project is licensed under the MIT License.
 <!-- Commit 377: test: Improve test coverage on 2025-12-29 17:01:07 -->
 <!-- Commit 378: style: Clean up whitespace on 2025-12-30 15:34:39 -->
 <!-- Commit 379: perf: Optimize data loading performance on 2026-01-05 10:40:34 -->
+<!-- Commit 381: docs: Clarify installation instructions on 2026-01-05 17:28:20 -->
