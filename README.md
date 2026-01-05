@@ -1780,3 +1780,4 @@ This project is licensed under the MIT License.
 <!-- Commit 399: docs: Update README with usage examples on 2025-12-31 11:58:05 -->
 <!-- Commit 401: docs: Clarify installation instructions on 2026-01-05 09:29:44 -->
 <!-- Commit 402: chore: Configure CI/CD pipeline on 2026-01-05 09:27:56 -->
+<!-- Commit 403: style: Format code according to PEP8 on 2026-01-05 09:14:36 -->
