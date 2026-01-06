@@ -1398,3 +1398,4 @@ This project is licensed under the MIT License.
 <!-- Commit 392: chore: Update dependencies on 2026-01-05 13:50:42 -->
 <!-- Commit 393: chore: Update dependencies on 2026-01-05 13:03:49 -->
 <!-- Commit 394: perf: Optimize data loading performance on 2026-01-06 16:39:56 -->
+<!-- Commit 396: fix: Correct off-by-one error in indexing on 2026-01-06 14:01:32 -->
