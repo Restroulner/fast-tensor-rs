@@ -721,3 +721,4 @@ This project is licensed under the MIT License.
 <!-- Commit 378: style: Clean up whitespace on 2025-12-30 15:34:39 -->
 <!-- Commit 379: perf: Optimize data loading performance on 2026-01-05 10:40:34 -->
 <!-- Commit 381: docs: Clarify installation instructions on 2026-01-05 17:28:20 -->
+<!-- Commit 382: fix: Resolve bug in model training loop on 2026-01-07 13:14:16 -->
