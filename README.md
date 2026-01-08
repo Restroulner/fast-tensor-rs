@@ -1401,3 +1401,4 @@ This project is licensed under the MIT License.
 <!-- Commit 396: fix: Correct off-by-one error in indexing on 2026-01-06 14:01:32 -->
 <!-- Commit 397: style: Clean up whitespace on 2026-01-07 16:05:31 -->
 <!-- Commit 398: style: Adhere to linter rules on 2026-01-08 15:52:05 -->
+<!-- Commit 399: docs: Add API documentation on 2026-01-08 14:05:29 -->
