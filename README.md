@@ -724,3 +724,4 @@ This project is licensed under the MIT License.
 <!-- Commit 382: fix: Resolve bug in model training loop on 2026-01-07 13:14:16 -->
 <!-- Commit 383: fix: Prevent potential race condition on 2026-01-09 09:57:32 -->
 <!-- Commit 384: refactor: Extract common logic into helper function on 2026-01-15 11:26:20 -->
+<!-- Commit 386: refactor: Simplify conditional statements on 2026-01-16 15:00:23 -->
