@@ -1789,3 +1789,4 @@ This project is licensed under the MIT License.
 <!-- Commit 411: chore: Automate release process on 2026-01-14 13:16:43 -->
 <!-- Commit 412: fix: Handle edge cases in input validation on 2026-01-19 09:58:04 -->
 <!-- Commit 413: chore: Automate release process on 2026-01-20 13:38:42 -->
+<!-- Commit 414: docs: Generate Sphinx documentation on 2026-01-20 10:15:58 -->
