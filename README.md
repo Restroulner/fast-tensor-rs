@@ -1037,3 +1037,4 @@ This project is licensed under the MIT License.
 <!-- Commit 326: test: Fix broken tests on 2026-01-14 14:00:52 -->
 <!-- Commit 327: docs: Add API documentation on 2026-01-14 16:03:17 -->
 <!-- Commit 328: chore: Automate release process on 2026-01-20 15:52:45 -->
+<!-- Commit 329: refactor: Extract common logic into helper function on 2026-01-21 10:54:30 -->
