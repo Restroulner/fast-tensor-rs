@@ -1791,3 +1791,4 @@ This project is licensed under the MIT License.
 <!-- Commit 413: chore: Automate release process on 2026-01-20 13:38:42 -->
 <!-- Commit 414: docs: Generate Sphinx documentation on 2026-01-20 10:15:58 -->
 <!-- Commit 416: refactor: Decouple modules on 2026-01-23 13:05:04 -->
+<!-- Commit 417: style: Clean up whitespace on 2026-01-26 16:17:43 -->
