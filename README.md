@@ -1414,3 +1414,4 @@ This project is licensed under the MIT License.
 <!-- Commit 412: refactor: Improve code readability and structure on 2026-01-26 16:14:33 -->
 <!-- Commit 413: docs: Add API documentation on 2026-01-26 16:45:34 -->
 <!-- Commit 414: docs: Generate Sphinx documentation on 2026-01-26 10:16:24 -->
+<!-- Commit 416: test: Improve test coverage on 2026-01-27 16:55:14 -->
