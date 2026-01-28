@@ -363,3 +363,4 @@ This project is licensed under the MIT License.
 <!-- Commit 418: fix: Correct off-by-one error in indexing on 2026-01-22 10:51:37 -->
 <!-- Commit 419: test: Fix broken tests on 2026-01-27 09:31:43 -->
 <!-- Commit 421: fix: Resolve bug in model training loop on 2026-01-28 16:58:04 -->
+<!-- Commit 422: style: Format code according to PEP8 on 2026-01-28 16:56:42 -->
