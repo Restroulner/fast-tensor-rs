@@ -1794,3 +1794,4 @@ This project is licensed under the MIT License.
 <!-- Commit 417: style: Clean up whitespace on 2026-01-26 16:17:43 -->
 <!-- Commit 418: fix: Handle edge cases in input validation on 2026-01-26 09:10:48 -->
 <!-- Commit 419: test: Add integration tests on 2026-01-26 16:59:28 -->
+<!-- Commit 421: fix: Correct off-by-one error in indexing on 2026-01-28 15:14:37 -->
