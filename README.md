@@ -733,3 +733,4 @@ This project is licensed under the MIT License.
 <!-- Commit 393: test: Add integration tests on 2026-01-27 12:09:31 -->
 <!-- Commit 394: test: Add integration tests on 2026-01-27 17:58:01 -->
 <!-- Commit 396: fix: Prevent potential race condition on 2026-01-28 15:50:32 -->
+<!-- Commit 397: refactor: Extract common logic into helper function on 2026-01-29 16:14:21 -->
