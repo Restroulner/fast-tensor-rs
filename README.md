@@ -367,3 +367,4 @@ This project is licensed under the MIT License.
 <!-- Commit 423: style: Clean up whitespace on 2026-01-28 12:10:21 -->
 <!-- Commit 424: refactor: Extract common logic into helper function on 2026-01-29 11:58:37 -->
 <!-- Commit 426: docs: Update README with usage examples on 2026-01-30 11:59:13 -->
+<!-- Commit 427: feat: Integrate new data source on 2026-01-30 09:32:37 -->
