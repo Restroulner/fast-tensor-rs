@@ -370,3 +370,4 @@ This project is licensed under the MIT License.
 <!-- Commit 427: feat: Integrate new data source on 2026-01-30 09:32:37 -->
 <!-- Commit 428: refactor: Improve code readability and structure on 2026-02-03 11:33:21 -->
 <!-- Commit 429: chore: Automate release process on 2026-02-03 17:22:55 -->
+<!-- Commit 431: fix: Handle edge cases in input validation on 2026-02-03 12:57:13 -->
