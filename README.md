@@ -1425,3 +1425,4 @@ This project is licensed under the MIT License.
 <!-- Commit 426: feat: Implement new evaluation metric on 2026-02-05 17:10:33 -->
 <!-- Commit 427: perf: Parallelize computation on 2026-02-05 13:46:44 -->
 <!-- Commit 428: style: Adhere to linter rules on 2026-02-05 16:34:47 -->
+<!-- Commit 429: docs: Generate Sphinx documentation on 2026-02-06 11:29:41 -->
