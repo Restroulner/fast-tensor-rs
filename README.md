@@ -374,3 +374,4 @@ This project is licensed under the MIT License.
 <!-- Commit 432: refactor: Improve code readability and structure on 2026-02-03 15:16:50 -->
 <!-- Commit 433: refactor: Extract common logic into helper function on 2026-02-05 17:54:32 -->
 <!-- Commit 434: style: Adhere to linter rules on 2026-02-09 14:22:57 -->
+<!-- Commit 436: test: Fix broken tests on 2026-02-09 12:11:05 -->
