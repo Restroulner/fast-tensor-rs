@@ -376,3 +376,4 @@ This project is licensed under the MIT License.
 <!-- Commit 434: style: Adhere to linter rules on 2026-02-09 14:22:57 -->
 <!-- Commit 436: test: Fix broken tests on 2026-02-09 12:11:05 -->
 <!-- Commit 437: chore: Update dependencies on 2026-02-09 14:38:04 -->
+<!-- Commit 438: fix: Correct off-by-one error in indexing on 2026-02-10 09:21:51 -->
