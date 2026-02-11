@@ -1049,3 +1049,4 @@ This project is licensed under the MIT License.
 <!-- Commit 341: chore: Automate release process on 2026-02-05 16:05:24 -->
 <!-- Commit 342: feat: Add new feature for data processing on 2026-02-06 11:45:41 -->
 <!-- Commit 343: style: Clean up whitespace on 2026-02-06 16:22:55 -->
+<!-- Commit 344: docs: Update README with usage examples on 2026-02-11 10:11:05 -->
