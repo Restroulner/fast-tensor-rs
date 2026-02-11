@@ -1430,3 +1430,4 @@ This project is licensed under the MIT License.
 <!-- Commit 432: fix: Handle edge cases in input validation on 2026-02-09 14:59:29 -->
 <!-- Commit 433: docs: Generate Sphinx documentation on 2026-02-09 10:27:14 -->
 <!-- Commit 434: style: Format code according to PEP8 on 2026-02-10 13:40:19 -->
+<!-- Commit 436: docs: Update README with usage examples on 2026-02-11 10:12:17 -->
