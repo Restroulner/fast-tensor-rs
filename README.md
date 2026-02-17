@@ -1051,3 +1051,4 @@ This project is licensed under the MIT License.
 <!-- Commit 343: style: Clean up whitespace on 2026-02-06 16:22:55 -->
 <!-- Commit 344: docs: Update README with usage examples on 2026-02-11 10:11:05 -->
 <!-- Commit 346: fix: Prevent potential race condition on 2026-02-13 09:33:06 -->
+<!-- Commit 347: test: Improve test coverage on 2026-02-17 09:54:30 -->
