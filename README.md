@@ -1810,3 +1810,4 @@ This project is licensed under the MIT License.
 <!-- Commit 437: chore: Automate release process on 2026-02-13 14:32:10 -->
 <!-- Commit 438: style: Format code according to PEP8 on 2026-02-16 14:16:20 -->
 <!-- Commit 439: feat: Implement new evaluation metric on 2026-02-17 15:56:10 -->
+<!-- Commit 441: refactor: Extract common logic into helper function on 2026-02-19 15:43:33 -->
