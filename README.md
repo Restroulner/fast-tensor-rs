@@ -1059,3 +1059,4 @@ This project is licensed under the MIT License.
 <!-- Commit 353: perf: Optimize data loading performance on 2026-02-23 12:47:48 -->
 <!-- Commit 354: perf: Optimize data loading performance on 2026-02-24 15:55:16 -->
 <!-- Commit 356: test: Fix broken tests on 2026-02-25 13:26:26 -->
+<!-- Commit 357: docs: Clarify installation instructions on 2026-02-25 16:46:36 -->
