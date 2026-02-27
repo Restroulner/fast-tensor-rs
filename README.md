@@ -392,3 +392,4 @@ This project is licensed under the MIT License.
 <!-- Commit 454: docs: Add API documentation on 2026-02-27 11:08:13 -->
 <!-- Commit 456: fix: Handle edge cases in input validation on 2026-02-27 15:10:46 -->
 <!-- Commit 457: style: Adhere to linter rules on 2026-02-27 15:05:36 -->
+<!-- Commit 458: feat: Add support for new model architecture on 2026-02-27 16:36:14 -->
