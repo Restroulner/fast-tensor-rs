@@ -397,3 +397,4 @@ This project is licensed under the MIT License.
 <!-- Commit 461: style: Format code according to PEP8 on 2026-03-02 12:30:40 -->
 <!-- Commit 462: fix: Resolve bug in model training loop on 2026-03-02 14:44:00 -->
 <!-- Commit 463: refactor: Decouple modules on 2026-03-03 16:20:21 -->
+<!-- Commit 464: refactor: Extract common logic into helper function on 2026-03-04 10:42:41 -->
