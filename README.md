@@ -1066,3 +1066,4 @@ This project is licensed under the MIT License.
 <!-- Commit 362: fix: Correct off-by-one error in indexing on 2026-03-04 09:14:23 -->
 <!-- Commit 363: feat: Add support for new model architecture on 2026-03-04 11:15:20 -->
 <!-- Commit 364: feat: Implement new evaluation metric on 2026-03-05 14:06:53 -->
+<!-- Commit 366: docs: Generate Sphinx documentation on 2026-03-06 16:18:53 -->
