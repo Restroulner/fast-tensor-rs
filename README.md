@@ -1441,3 +1441,4 @@ This project is licensed under the MIT License.
 <!-- Commit 446: feat: Integrate new data source on 2026-02-26 15:58:40 -->
 <!-- Commit 447: perf: Reduce memory footprint on 2026-03-04 14:45:04 -->
 <!-- Commit 448: test: Add unit tests for new module on 2026-03-06 09:00:49 -->
+<!-- Commit 449: refactor: Extract common logic into helper function on 2026-03-06 14:50:24 -->
