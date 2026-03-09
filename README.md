@@ -1068,3 +1068,4 @@ This project is licensed under the MIT License.
 <!-- Commit 364: feat: Implement new evaluation metric on 2026-03-05 14:06:53 -->
 <!-- Commit 366: docs: Generate Sphinx documentation on 2026-03-06 16:18:53 -->
 <!-- Commit 367: feat: Integrate new data source on 2026-03-06 16:05:21 -->
+<!-- Commit 368: docs: Update README with usage examples on 2026-03-09 12:28:01 -->
