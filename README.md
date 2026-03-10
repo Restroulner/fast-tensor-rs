@@ -1069,3 +1069,4 @@ This project is licensed under the MIT License.
 <!-- Commit 366: docs: Generate Sphinx documentation on 2026-03-06 16:18:53 -->
 <!-- Commit 367: feat: Integrate new data source on 2026-03-06 16:05:21 -->
 <!-- Commit 368: docs: Update README with usage examples on 2026-03-09 12:28:01 -->
+<!-- Commit 369: docs: Add API documentation on 2026-03-10 12:13:59 -->
