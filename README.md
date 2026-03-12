@@ -1074,3 +1074,4 @@ This project is licensed under the MIT License.
 <!-- Commit 372: feat: Implement new evaluation metric on 2026-03-11 09:53:33 -->
 <!-- Commit 373: docs: Add API documentation on 2026-03-11 12:16:40 -->
 <!-- Commit 374: test: Improve test coverage on 2026-03-12 10:14:52 -->
+<!-- Commit 376: docs: Update README with usage examples on 2026-03-12 09:00:10 -->
