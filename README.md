@@ -1445,3 +1445,4 @@ This project is licensed under the MIT License.
 <!-- Commit 451: docs: Clarify installation instructions on 2026-03-10 14:59:20 -->
 <!-- Commit 452: perf: Optimize data loading performance on 2026-03-10 09:05:00 -->
 <!-- Commit 453: docs: Update README with usage examples on 2026-03-12 14:50:45 -->
+<!-- Commit 454: refactor: Improve code readability and structure on 2026-03-13 10:10:45 -->
