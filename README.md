@@ -1821,3 +1821,4 @@ This project is licensed under the MIT License.
 <!-- Commit 451: test: Improve test coverage on 2026-03-10 13:36:44 -->
 <!-- Commit 452: fix: Resolve bug in model training loop on 2026-03-12 11:35:46 -->
 <!-- Commit 453: fix: Prevent potential race condition on 2026-03-12 14:03:46 -->
+<!-- Commit 454: refactor: Extract common logic into helper function on 2026-03-13 14:27:09 -->
