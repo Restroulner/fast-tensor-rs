@@ -1447,3 +1447,4 @@ This project is licensed under the MIT License.
 <!-- Commit 453: docs: Update README with usage examples on 2026-03-12 14:50:45 -->
 <!-- Commit 454: refactor: Improve code readability and structure on 2026-03-13 10:10:45 -->
 <!-- Commit 456: refactor: Improve code readability and structure on 2026-03-16 13:18:21 -->
+<!-- Commit 457: docs: Add API documentation on 2026-03-16 10:27:53 -->
