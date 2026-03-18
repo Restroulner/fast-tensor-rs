@@ -769,3 +769,4 @@ This project is licensed under the MIT License.
 <!-- Commit 438: style: Adhere to linter rules on 2026-03-16 10:14:22 -->
 <!-- Commit 439: fix: Prevent potential race condition on 2026-03-17 11:27:35 -->
 <!-- Commit 441: refactor: Improve code readability and structure on 2026-03-18 09:16:33 -->
+<!-- Commit 442: refactor: Extract common logic into helper function on 2026-03-18 09:29:11 -->
