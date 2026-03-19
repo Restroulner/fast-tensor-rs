@@ -1452,3 +1452,4 @@ This project is licensed under the MIT License.
 <!-- Commit 459: test: Add unit tests for new module on 2026-03-18 15:10:04 -->
 <!-- Commit 461: chore: Update dependencies on 2026-03-18 17:31:35 -->
 <!-- Commit 462: fix: Resolve bug in model training loop on 2026-03-19 12:32:48 -->
+<!-- Commit 463: docs: Generate Sphinx documentation on 2026-03-19 10:49:46 -->
