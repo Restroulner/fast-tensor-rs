@@ -771,3 +771,4 @@ This project is licensed under the MIT License.
 <!-- Commit 441: refactor: Improve code readability and structure on 2026-03-18 09:16:33 -->
 <!-- Commit 442: refactor: Extract common logic into helper function on 2026-03-18 09:29:11 -->
 <!-- Commit 443: test: Add integration tests on 2026-03-19 10:03:38 -->
+<!-- Commit 444: feat: Add support for new model architecture on 2026-03-19 17:42:40 -->
