@@ -409,3 +409,4 @@ This project is licensed under the MIT License.
 <!-- Commit 476: perf: Reduce memory footprint on 2026-03-17 10:58:01 -->
 <!-- Commit 477: refactor: Improve code readability and structure on 2026-03-17 11:18:18 -->
 <!-- Commit 478: test: Fix broken tests on 2026-03-19 15:54:52 -->
+<!-- Commit 479: fix: Resolve bug in model training loop on 2026-03-20 14:01:37 -->
