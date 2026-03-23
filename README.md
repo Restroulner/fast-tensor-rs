@@ -410,3 +410,4 @@ This project is licensed under the MIT License.
 <!-- Commit 477: refactor: Improve code readability and structure on 2026-03-17 11:18:18 -->
 <!-- Commit 478: test: Fix broken tests on 2026-03-19 15:54:52 -->
 <!-- Commit 479: fix: Resolve bug in model training loop on 2026-03-20 14:01:37 -->
+<!-- Commit 481: refactor: Decouple modules on 2026-03-23 17:47:01 -->
