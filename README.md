@@ -1457,3 +1457,4 @@ This project is licensed under the MIT License.
 <!-- Commit 466: perf: Reduce memory footprint on 2026-03-20 17:12:40 -->
 <!-- Commit 467: test: Improve test coverage on 2026-03-23 13:20:00 -->
 <!-- Commit 468: feat: Integrate new data source on 2026-03-23 11:17:52 -->
+<!-- Commit 469: fix: Correct off-by-one error in indexing on 2026-03-23 14:27:57 -->
